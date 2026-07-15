@@ -1,0 +1,504 @@
+{
+  "adverse_media_rating": "Low",
+  "financial_rating": "Low",
+  "entity_existence_rating": "Medium",
+  "legal_rating": "Medium",
+  "cyber_esg_rating": "Low",
+  "risk_level": "Low",
+  "name": "ESKO CASTING AND ELECTRONICS PRIVATE LIMITED",
+  "google_image_name": "U27203WB1999PTC089144_731",
+  "uploaded_name": "Esko Casting And Electronics Private Limited",
+  "external_vendor_id": "N/A",
+  "location": "KOLKATA, West Bengal",
+  "address": "SAMILTON CHAMBERS181  1  A J C BOSE ROAD   2ND FLOOR  PS  BENIAPUKUR, KOLKATA, West Bengal - 700014",
+  "e_filing_status": "Active",
+  "category": "Private Limited Indian Non-Government Company",
+  "pan_id": "AAACE7249Q (PAN Number)",
+  "alias": "ESKO DIE CASTING PRIVATE LIMITED",
+  "incorporation_date": "01/04/1999",
+  "shareholders": "ASHOK KUMAR PODDAR (17.29%)\nUNITY MERCHANDISE PRIVATE LIMITED (17.2%)\nL K PODDAR (13.4%)\nARUN PODDAR (10.89%)\nAMITA PODDAR (9.72%)\nLAKSHMI KANT PODDAR (6.78%)\nA PODDAR (6.49%)\n+ 2 more",
+  "revenue": "3,205,527,461",
+  "subsidiaries": "N/A",
+  "key_executives": "ASHOK KUMAR PODDAR (Whole-time director)\nARUN PODDAR (Director)\nLAKSHMI KANT PODDAR (Director)",
+  "employee_count": "N/A",
+  "website": "https://www.eskocast.com/",
+  "company_corporate_group": "Shareholders: 9\nSubsidiaries: 0",
+  "identifier": "U27203WB1999PTC089144",
+  "identifier_type": "CIN",
+  "annexure": [
+    {
+      "id": "1",
+      "title": "Full List of Shareholders",
+      "contents": "\n\nSignificant Shareholders\n\n\n1. ASHOK KUMAR PODDAR 17.29%\n2. UNITY MERCHANDISE PRIVATE LIMITED 17.2%\n3. L K PODDAR 13.4%\n4. ARUN PODDAR 10.89%\n5. AMITA PODDAR 9.72%\n6. LAKSHMI KANT PODDAR 6.78%\n7. A PODDAR 6.49%\n8. LAXMI PODDAR 5.87%\n9. A K PODDAR 5.06%"
+    },
+    {
+      "id": "2",
+      "title": "Key Management Personnel",
+      "contents": "\n\n\nKey Management\n\n\n1. ASHOK KUMAR PODDAR - Whole-time director\n2. ARUN PODDAR - Director\n3. LAKSHMI KANT PODDAR - Director"
+    },
+    {
+      "id": "4",
+      "title": "Full List of Legal History",
+      "contents": [
+        {
+          "date": "20.05.26",
+          "case_number": "COMI /280/2020",
+          "Description": "Case No. COMI /280/2020 was filed before the Chief Judicial Magistrate, Faridabad under the category of Criminal Trials. This matter pertains to Cases Filed Against This Corporate, where NARENDER S/O RAM CHANDER has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "Criminal Trials"
+        },
+        {
+          "date": "20.05.26",
+          "case_number": "COMI /153/2020",
+          "Description": "Case No. COMI /153/2020 was filed before the Chief Judicial Magistrate, Faridabad under the category of Criminal Trials. This matter pertains to Cases Filed Against This Corporate, where SUSHIL KUMAR TRIWEDI S/O SH. ARJUN TRIVEDI has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "Criminal Trials"
+        },
+        {
+          "date": "30.04.26",
+          "case_number": "CS /6/2023",
+          "Description": "Case No. CS /6/2023 was filed before the Civil Judge Senior Division, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where SATISH KUMAR has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "01.05.24",
+          "case_number": "SUMM/94/2024",
+          "Description": "Case No. SUMM/94/2024 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "01.05.24",
+          "case_number": "SUMM/95/2024",
+          "Description": "Case No. SUMM/95/2024 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "10.11.22",
+          "case_number": "CS/723/2018",
+          "Description": "Case No. CS/723/2018 was filed before the District and Session Court, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where Rakesh has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "17.05.22",
+          "case_number": "SUMM /108/2021",
+          "Description": "Case No. SUMM /108/2021 was filed before the Chief Judicial Magistrate, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "17.05.22",
+          "case_number": "SUMM/107/2021",
+          "Description": "Case No. SUMM/107/2021 was filed before the Chief Judicial Magistrate, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "17.05.22",
+          "case_number": "SUMM/106/2021",
+          "Description": "Case No. SUMM/106/2021 was filed before the Chief Judicial Magistrate, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "17.05.22",
+          "case_number": "SUMM /105/2021",
+          "Description": "Case No. SUMM /105/2021 was filed before the Chief Judicial Magistrate, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/477/2018",
+          "Description": "Case No. SUMM/477/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/481/2018",
+          "Description": "Case No. SUMM/481/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/483/2018",
+          "Description": "Case No. SUMM/483/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/486/2018",
+          "Description": "Case No. SUMM/486/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/482/2018",
+          "Description": "Case No. SUMM/482/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/484/2018",
+          "Description": "Case No. SUMM/484/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM /478/2018",
+          "Description": "Case No. SUMM /478/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/488/2018",
+          "Description": "Case No. SUMM/488/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/479/2018",
+          "Description": "Case No. SUMM/479/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/480/2018",
+          "Description": "Case No. SUMM/480/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/485/2018",
+          "Description": "Case No. SUMM/485/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "08.12.18",
+          "case_number": "SUMM/487/2018",
+          "Description": "Case No. SUMM/487/2018 was filed before the Chief Judicial Magistrate, Palwal under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State of Haryana has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "11.07.18",
+          "case_number": "E/2216/2011",
+          "Description": "Case No. E/2216/2011 was filed before the Customs, Excise and Service Tax Appellate Tribunal under the category of Excise Duty. This matter pertains to Cases Filed Against This Corporate, where C.C.E. DELHI IV has initiated proceedings against ESKO DIE CASTINGS PVT. LTD. (UNIT-III).\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Excise Duty"
+        },
+        {
+          "date": "09.01.17",
+          "case_number": "SUMM/2136/2016",
+          "Description": "Case No. SUMM/2136/2016 was filed before the Chief Judicial Magistrate, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where State has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "24.08.11",
+          "case_number": "CP/565/2010",
+          "Description": "Case No. CP/565/2010 was filed before the High Court of Calcutta under the category of Corporate Disputes. This matter pertains to Cases for Consolidation of Corporate affairs, where Self has initiated proceedings against None.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Corporate Disputes"
+        },
+        {
+          "date": "25.11.10",
+          "case_number": "CA/858/2010",
+          "Description": "Case No. CA/858/2010 was filed before the High Court of Calcutta under the category of Corporate Disputes. This matter pertains to Cases for Consolidation of Corporate affairs, where Self has initiated proceedings against None.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Corporate Disputes"
+        },
+        {
+          "date": "07.08.25",
+          "case_number": "TRF /65913/2024",
+          "Description": "Case No. TRF /65913/2024 was filed before the Chief Judicial Magistrate, Faridabad under the category of Others. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Pending",
+          "category": "Others"
+        },
+        {
+          "date": "20.06.19",
+          "case_number": "WP/135/2015",
+          "Description": "Case No. WP/135/2015 was filed before the High Court of Calcutta under the category of Writs and Regulatory Matters. This matter pertains to Cases Filed By This Corporate, where ESKO DIE CASTING PRIVATE LIMITED has initiated proceedings against STATE OF WEST BENGAL & ORS..\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Writs and Regulatory Matters"
+        },
+        {
+          "date": "20.06.19",
+          "case_number": "WPO/135/2015",
+          "Description": "Case No. WPO/135/2015 was filed before the High Court of Calcutta under the category of Writs and Regulatory Matters. This matter pertains to Cases Filed By This Corporate, where ESKO DIE CASTING PRIVATE LIMITED has initiated proceedings against STATE OF WEST BENGAL & ORS..\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Writs and Regulatory Matters"
+        },
+        {
+          "date": "13.01.16",
+          "case_number": "WP/474W/2016",
+          "Description": "Case No. WP/474W/2016 was filed before the High Court of Calcutta - Appellate Side under the category of Writs and Regulatory Matters. This matter pertains to Cases Filed By This Corporate, where ESKO DIE CASTING PRIVATE LIMITED has initiated proceedings against DEPUTY COMMISSIONER, COMMERCIAL TAXES,DUBURDIH CHECK POST &.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Writs and Regulatory Matters"
+        },
+        {
+          "date": "13.01.16",
+          "case_number": "WPA/474/2016",
+          "Description": "Case No. WPA/474/2016 was filed before the High Court of Calcutta - Appellate Side under the category of Writs and Regulatory Matters. This matter pertains to Cases Filed By This Corporate, where ESKO DIE CASTING PRIVATE LIMITED has initiated proceedings against DEPUTY COMMISSIONER, COMMERCIAL TAXES,DUBURDIH CHECK POST &.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Writs and Regulatory Matters"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Full List of Director Network",
+      "contents": [
+        {
+          "Director Name": "ASHOK KUMAR PODDAR",
+          "DIN": "00538388",
+          "Network": "\u2022 TWENTY FIRST CENTURY AUTO LOCKS PVT LTD \u2014 Director (1987-04-27 \u2013 2016-03-30) [AMALGAMATED]\n\u2022 KANISHKA MARKETING PVT. LTD. \u2014 Additional Director (2020-08-29 \u2013 2020-10-06)\n\u2022 ESKO CASTING AND ELECTRONICS PRIVATE LIMITED \u2014 Whole-time director (1999-04-01 \u2013 Present)"
+        },
+        {
+          "Director Name": "ARUN PODDAR",
+          "DIN": "00574732",
+          "Network": "\u2022 ONS ENGINEERING PRIVATE LIMITED \u2014 Director (2017-11-24 \u2013 Present)\n\u2022 ESKO CASTING AND ELECTRONICS PRIVATE LIMITED \u2014 Director (1999-04-01 \u2013 Present)"
+        },
+        {
+          "Director Name": "LAKSHMI KANT PODDAR",
+          "DIN": "00574787",
+          "Network": "\u2022 KANISHKA MARKETING PVT. LTD. \u2014 Additional Director (2020-08-29 \u2013 2020-10-06)\n\u2022 UNITY MERCHANDISE PRIVATE LIMITED \u2014 Director (2024-03-11 \u2013 Present)\n\u2022 ESKO CASTING AND ELECTRONICS PRIVATE LIMITED \u2014 Director (2011-10-29 \u2013 Present)"
+        }
+      ]
+    }
+  ],
+  "legal_findings": true,
+  "legal_data": [
+    {
+      "kpi_area": "LEG",
+      "kpi_code": "LEG1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"date\": \"20.05.26\", \"case_number\": \"COMI /280/2020\", \"Description\": \"Case No. COMI /280/2020 was filed before the Chief Judicial Magistrate, Faridabad under the category of Criminal Trials. This matter pertains to Cases Filed Against This Corporate, where NARENDER S/O RAM CHANDER has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"Criminal Trials\"}, {\"date\": \"20.05.26\", \"case_number\": \"COMI /153/2020\", \"Description\": \"Case No. COMI /153/2020 was filed before the Chief Judicial Magistrate, Faridabad under the category of Criminal Trials. This matter pertains to Cases Filed Against This Corporate, where SUSHIL KUMAR TRIWEDI S/O SH. ARJUN TRIVEDI has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"Criminal Trials\"}, {\"date\": \"30.04.26\", \"case_number\": \"CS /6/2023\", \"Description\": \"Case No. CS /6/2023 was filed before the Civil Judge Senior Division, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where SATISH KUMAR has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"Civil Cases\"}, {\"date\": \"07.08.25\", \"case_number\": \"TRF /65913/2024\", \"Description\": \"Case No. TRF /65913/2024 was filed before the Chief Judicial Magistrate, Faridabad under the category of Others. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\\n\", \"severity\": \"low\", \"status\": \"Pending\", \"category\": \"Others\"}]",
+      "kpi_details": "Following are Legal History\n1. Date: 20.05.26 | Severity: medium | Status: Pending\nCase No. COMI /280/2020 was filed before the Chief Judicial Magistrate, Faridabad under the category of Criminal Trials. This matter pertains to Cases Filed Against This Corporate, where NARENDER S/O RAM CHANDER has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n\n2. Date: 20.05.26 | Severity: medium | Status: Pending\nCase No. COMI /153/2020 was filed before the Chief Judicial Magistrate, Faridabad under the category of Criminal Trials. This matter pertains to Cases Filed Against This Corporate, where SUSHIL KUMAR TRIWEDI S/O SH. ARJUN TRIVEDI has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n\n3. Date: 30.04.26 | Severity: medium | Status: Pending\nCase No. CS /6/2023 was filed before the Civil Judge Senior Division, Faridabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where SATISH KUMAR has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n\n4. Date: 07.08.25 | Severity: low | Status: Pending\nCase No. TRF /65913/2024 was filed before the Chief Judicial Magistrate, Faridabad under the category of Others. This matter pertains to Cases Filed Against This Corporate, where STATE OF HARYANA has initiated proceedings against ESKO CASTING AND ELECTRONICS PRIVATE LIMITED.\n",
+      "kpi_rating": "High",
+      "kpi_definition": "Legal History"
+    },
+    {
+      "kpi_area": "LEG",
+      "kpi_code": "LEG2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"date\": \"22.05.26\", \"amount\": 625600000, \"holder_name\": \"STATE BANK OF INDIA\", \"charge_type\": \"Modification\"}, {\"date\": \"13.05.26\", \"amount\": 3600000, \"holder_name\": \"STATE BANK OF INDIA\", \"charge_type\": \"Creation\"}, {\"date\": \"31.05.24\", \"amount\": 7154999, \"holder_name\": \"HDFC BANK LIMITED\", \"charge_type\": \"Creation\"}]",
+      "kpi_details": "1. Modification of Rs.625,600,000 in favour of STATE BANK OF INDIA dated 22.05.26\n2. Creation of Rs.3,600,000 in favour of STATE BANK OF INDIA dated 13.05.26\n3. Creation of Rs.7,154,999 in favour of HDFC BANK LIMITED dated 31.05.24\n",
+      "kpi_rating": "High",
+      "kpi_definition": "Open Charges"
+    }
+  ],
+  "adverse_media_findings": true,
+  "adverse_media_data": [
+    {
+      "kpi_area": "NWS",
+      "kpi_code": "NWS2A",
+      "kpi_flag": true,
+      "kpi_value": "Name: ESKO CASTING AND ELECTRONICS PRIVATE LIMITED\nRating: 4\nNumber of Reviews: 2\n\n\nReviews:\n\t1. Name: RAHUL RAJ | Rating: 3\n\n\n\t2. Name: Sk Imtiyaaz | Rating: 5\n\n\n",
+      "kpi_details": "Name: ESKO CASTING AND ELECTRONICS PRIVATE LIMITED\nRating: 4\nNumber of Reviews: 2\n\n\nReviews:\n\t1. Name: RAHUL RAJ | Rating: 3\n\n\n\t2. Name: Sk Imtiyaaz | Rating: 5\n\n\n",
+      "kpi_rating": "Low",
+      "kpi_definition": "Google Rating Validation"
+    }
+  ],
+  "financial_findings": true,
+  "financial_data": [
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB5A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"name\": \"Unity Merchandise Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 486.15, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Progressive Corrugated Fiberboard Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 439.99, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ONS Engineering Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 156.0, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Progressive Corrugated Fiberboard Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 8.4, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"Unity Merchandise Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 6.85, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"Ashok Kumar Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.95, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Arun Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.66, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Lakshmikant Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.14, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Atmaram Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.03, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_details": "[{\"name\": \"Unity Merchandise Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 486.15, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Progressive Corrugated Fiberboard Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 439.99, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ONS Engineering Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 156.0, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Progressive Corrugated Fiberboard Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 8.4, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"Unity Merchandise Pvt Ltd\", \"amount (\\u20b9 in Lakhs)\": 6.85, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"Ashok Kumar Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.95, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Arun Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.66, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Lakshmikant Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.14, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"Atmaram Poddar HUF\", \"amount (\\u20b9 in Lakhs)\": 0.03, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Related Party Transaction"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB7A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"gst_in\": \"06AAACE7249Q2Z3\", \"state_of_registration\": \"Haryana\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"13.09.21\"}, {\"gst_in\": \"06AAACE7249Q1Z4\", \"state_of_registration\": \"Haryana\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"01.07.17\"}, {\"gst_in\": \"19AAACE7249Q1ZX\", \"state_of_registration\": \"West Bengal\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"01.07.17\"}, {\"gst_in\": \"19AAACE7249Q1D6\", \"state_of_registration\": \"West Bengal\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"05.11.24\"}]",
+      "kpi_details": "[{\"gst_in\": \"06AAACE7249Q2Z3\", \"state_of_registration\": \"Haryana\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"13.09.21\"}, {\"gst_in\": \"06AAACE7249Q1Z4\", \"state_of_registration\": \"Haryana\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"01.07.17\"}, {\"gst_in\": \"19AAACE7249Q1ZX\", \"state_of_registration\": \"West Bengal\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"01.07.17\"}, {\"gst_in\": \"19AAACE7249Q1D6\", \"state_of_registration\": \"West Bengal\", \"filing_timeliness\": \"Filed on Time\", \"date_of_registration\": \"05.11.24\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Finance - GST Registration Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB8A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"period\": \"October 2023 to March 2024\", \"Amount (\\u20b9 in Lakhs)\": 4.37}, {\"period\": \"April 2024 to September 2024\", \"Amount (\\u20b9 in Lakhs)\": 8.96}, {\"period\": \"October 2024 to March 2025\", \"Amount (\\u20b9 in Lakhs)\": 5.42}, {\"period\": \"April 2025 to September 2025\", \"Amount (\\u20b9 in Lakhs)\": 7.37}, {\"period\": \"October 2025 to March 2026\", \"Amount (\\u20b9 in Lakhs)\": 7.56}]",
+      "kpi_details": "[{\"period\": \"October 2023 to March 2024\", \"Amount (\\u20b9 in Lakhs)\": 4.37}, {\"period\": \"April 2024 to September 2024\", \"Amount (\\u20b9 in Lakhs)\": 8.96}, {\"period\": \"October 2024 to March 2025\", \"Amount (\\u20b9 in Lakhs)\": 5.42}, {\"period\": \"April 2025 to September 2025\", \"Amount (\\u20b9 in Lakhs)\": 7.37}, {\"period\": \"October 2025 to March 2026\", \"Amount (\\u20b9 in Lakhs)\": 7.56}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - MSME Payment Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB6A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"amount (\\u20b9 in Lakhs)\": 2500.0, \"rating\": \"BBB (Stable/Assigned)\", \"rating_agency\": \"crisil\", \"rating_date\": \"29.01.26\", \"type_of_loan\": \"Cash Credit\"}, {\"amount (\\u20b9 in Lakhs)\": 2000.0, \"rating\": \"BBB (Stable)/A3+ (Assigned)\", \"rating_agency\": \"india_ratings\", \"rating_date\": \"11.06.24\", \"type_of_loan\": \"Fund Based Working Capital Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 0.0, \"rating\": \"Withdrawn (BB+/Stable/Issuer Not Cooperating)\", \"rating_agency\": \"care\", \"rating_date\": \"17.01.24\", \"type_of_loan\": \"Long Term Bank Facilities\"}, {\"amount (\\u20b9 in Lakhs)\": 640.0, \"rating\": \"BB+ (Stable/ Issuer Not Cooperating)\", \"rating_agency\": \"care\", \"rating_date\": \"27.12.23\", \"type_of_loan\": \"Long Term Bank Facilities\"}, {\"amount (\\u20b9 in Lakhs)\": 640.0, \"rating\": \"BB+ (Stable/Issuer Not Cooperaing/Revised from BBB)\", \"rating_agency\": \"care\", \"rating_date\": \"26.10.22\", \"type_of_loan\": \"Long Term Bank Facilities\"}]",
+      "kpi_details": "[{\"amount (\\u20b9 in Lakhs)\": 2500.0, \"rating\": \"BBB (Stable/Assigned)\", \"rating_agency\": \"crisil\", \"rating_date\": \"29.01.26\", \"type_of_loan\": \"Cash Credit\"}, {\"amount (\\u20b9 in Lakhs)\": 2000.0, \"rating\": \"BBB (Stable)/A3+ (Assigned)\", \"rating_agency\": \"india_ratings\", \"rating_date\": \"11.06.24\", \"type_of_loan\": \"Fund Based Working Capital Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 0.0, \"rating\": \"Withdrawn (BB+/Stable/Issuer Not Cooperating)\", \"rating_agency\": \"care\", \"rating_date\": \"17.01.24\", \"type_of_loan\": \"Long Term Bank Facilities\"}, {\"amount (\\u20b9 in Lakhs)\": 640.0, \"rating\": \"BB+ (Stable/ Issuer Not Cooperating)\", \"rating_agency\": \"care\", \"rating_date\": \"27.12.23\", \"type_of_loan\": \"Long Term Bank Facilities\"}, {\"amount (\\u20b9 in Lakhs)\": 640.0, \"rating\": \"BB+ (Stable/Issuer Not Cooperaing/Revised from BBB)\", \"rating_agency\": \"care\", \"rating_date\": \"26.10.22\", \"type_of_loan\": \"Long Term Bank Facilities\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Credit Risk Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 9979.63, \"2024\": 8902.87, \"2023\": 7940.21}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 171.85, \"2024\": 150.21, \"2023\": 250.46}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3826.21, \"2024\": 3595.41, \"2023\": 3306.82}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 5968.57, \"2024\": 5638.26, \"2023\": 4788.66}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 167.26, \"2024\": 529.64, \"2023\": 1284.48}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": 7859.17, \"2024\": 6480.6, \"2023\": 5424.35}]",
+      "kpi_details": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 9979.63, \"2024\": 8902.87, \"2023\": 7940.21}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 171.85, \"2024\": 150.21, \"2023\": 250.46}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3826.21, \"2024\": 3595.41, \"2023\": 3306.82}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 5968.57, \"2024\": 5638.26, \"2023\": 4788.66}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 167.26, \"2024\": 529.64, \"2023\": 1284.48}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": 7859.17, \"2024\": 6480.6, \"2023\": 5424.35}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Balance Sheet"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB3A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 32055.27, \"2024\": 30175.84, \"2023\": 25056.23}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": 1378.57, \"2024\": 1056.25, \"2023\": 993.92}]",
+      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 32055.27, \"2024\": 30175.84, \"2023\": 25056.23}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": 1378.57, \"2024\": 1056.25, \"2023\": 993.92}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Profit And Loss"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB14A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
+      "kpi_details": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Finance - Auditor Comments"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB13A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Parameter\": \"City\", \"Value\": \"BALLABGARH\"}, {\"Parameter\": \"Amount\", \"Value\": 286688}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 807 SEC 58,BALLABGARH,HARYANA,121004,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2002-08-27\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 80}, {\"Parameter\": \"Establishment Id\", \"Value\": \"HRFBD0011584000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"M/S ESKO CASTING AND ELECTRONICS PRIVATE LIMITED\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"ELEC, MECH OR GEN ENGG PRODUCTS\"}, {\"Parameter\": \"City\", \"Value\": \"BALLABGARH\"}, {\"Parameter\": \"Amount\", \"Value\": 340250}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 30 SEC 4 FARIDABAD  HR  ,BALLABGARH,HARYANA,121006,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2005-02-07\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 94}, {\"Parameter\": \"Establishment Id\", \"Value\": \"HRFBD0011955000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"ESKO DIE CASTING P LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Paid on Time\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}, {\"Parameter\": \"City\", \"Value\": \"KOLKATA\"}, {\"Parameter\": \"Amount\", \"Value\": 324588}, {\"Parameter\": \"Address\", \"Value\": \"48, DUM DUM ROAD, ,KOLKATA,WEST BENGAL,700074,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"1984-08-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 77}, {\"Parameter\": \"Establishment Id\", \"Value\": \"WBTLO0024233000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"ESKO CASTING AND ELECTRONICS PRIVATE LIMITED\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Paid on Time\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"NONFERROUS METAL AND ALLOYS\"}]",
+      "kpi_details": "[{\"Parameter\": \"City\", \"Value\": \"BALLABGARH\"}, {\"Parameter\": \"Amount\", \"Value\": 286688}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 807 SEC 58,BALLABGARH,HARYANA,121004,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2002-08-27\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 80}, {\"Parameter\": \"Establishment Id\", \"Value\": \"HRFBD0011584000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"M/S ESKO CASTING AND ELECTRONICS PRIVATE LIMITED\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"ELEC, MECH OR GEN ENGG PRODUCTS\"}, {\"Parameter\": \"City\", \"Value\": \"BALLABGARH\"}, {\"Parameter\": \"Amount\", \"Value\": 340250}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 30 SEC 4 FARIDABAD  HR  ,BALLABGARH,HARYANA,121006,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2005-02-07\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 94}, {\"Parameter\": \"Establishment Id\", \"Value\": \"HRFBD0011955000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"ESKO DIE CASTING P LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Paid on Time\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}, {\"Parameter\": \"City\", \"Value\": \"KOLKATA\"}, {\"Parameter\": \"Amount\", \"Value\": 324588}, {\"Parameter\": \"Address\", \"Value\": \"48, DUM DUM ROAD, ,KOLKATA,WEST BENGAL,700074,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"1984-08-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 77}, {\"Parameter\": \"Establishment Id\", \"Value\": \"WBTLO0024233000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"ESKO CASTING AND ELECTRONICS PRIVATE LIMITED\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Paid on Time\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"NONFERROUS METAL AND ALLOYS\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - EPFO Registration"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1B",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2023\": 3.97, \"2024\": 3.5, \"2025\": 4.3}, {\"factor\": \"EBITDA Margin (%)\", \"2023\": 9.33, \"2024\": 8.1, \"2025\": 9.02}, {\"factor\": \"ROE (%)\", \"2023\": 0.18, \"2024\": 0.16, \"2025\": 0.18}, {\"factor\": \"ROCE (%)\", \"2023\": 26.02, \"2024\": 26.25, \"2025\": 27.89}, {\"factor\": \"ROA (%)\", \"2023\": 8.64, \"2024\": 8.35, \"2025\": 9.85}]",
+      "kpi_details": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2023\": 3.97, \"2024\": 3.5, \"2025\": 4.3}, {\"factor\": \"EBITDA Margin (%)\", \"2023\": 9.33, \"2024\": 8.1, \"2025\": 9.02}, {\"factor\": \"ROE (%)\", \"2023\": 0.18, \"2024\": 0.16, \"2025\": 0.18}, {\"factor\": \"ROCE (%)\", \"2023\": 26.02, \"2024\": 26.25, \"2025\": 27.89}, {\"factor\": \"ROA (%)\", \"2023\": 8.64, \"2024\": 8.35, \"2025\": 9.85}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Profitability Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1C",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Current Ratio\", \"2023\": 1.66, \"2024\": 1.58, \"2025\": 1.67}, {\"factor\": \"Quick Ratio\", \"2023\": 0.87, \"2024\": 1.02, \"2025\": 0.94}, {\"factor\": \"Cash Ratio\", \"2023\": 0.02, \"2024\": 0.01, \"2025\": 0.01}]",
+      "kpi_details": "[{\"factor\": \"Current Ratio\", \"2023\": 1.66, \"2024\": 1.58, \"2025\": 1.67}, {\"factor\": \"Quick Ratio\", \"2023\": 0.87, \"2024\": 1.02, \"2025\": 0.94}, {\"factor\": \"Cash Ratio\", \"2023\": 0.02, \"2024\": 0.01, \"2025\": 0.01}]",
+      "kpi_rating": "High",
+      "kpi_definition": "Finance - Liquidity Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1E",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Debt Equity Ratio\", \"2023\": 1.12, \"2024\": 0.95, \"2025\": 0.78}, {\"factor\": \"Interest Coverage Ratio\", \"2023\": 5.42, \"2024\": 5.75, \"2025\": 6.85}]",
+      "kpi_details": "[{\"factor\": \"Debt Equity Ratio\", \"2023\": 1.12, \"2024\": 0.95, \"2025\": 0.78}, {\"factor\": \"Interest Coverage Ratio\", \"2023\": 5.42, \"2024\": 5.75, \"2025\": 6.85}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Capital Structure"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1D",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Debtor Days\", \"2023\": 47, \"2024\": 55, \"2025\": 54}, {\"factor\": \"Asset Turnover Ratio\", \"2023\": 2.18, \"2024\": 2.39, \"2025\": 2.29}]",
+      "kpi_details": "[{\"factor\": \"Debtor Days\", \"2023\": 47, \"2024\": 55, \"2025\": 54}, {\"factor\": \"Asset Turnover Ratio\", \"2023\": 2.18, \"2024\": 2.39, \"2025\": 2.29}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Operating Cycle"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB9A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"parameter\": \"Altman Z Score (manufacturing)\", \"calculation\": 4.41}]",
+      "kpi_details": "[{\"parameter\": \"Altman Z Score (manufacturing)\", \"calculation\": 4.41}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Finance - Z Altman Score Analysis"
+    }
+  ],
+  "entity_existence_findings": true,
+  "entity_existence_data": [
+    {
+      "kpi_area": "ADD",
+      "kpi_code": "ADD1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Address\", \"value\": \"SAMILTON CHAMBERS181  1  A J C BOSE ROAD   2ND FLOOR  PS  BENIAPUKUR, KOLKATA, West Bengal - 700014\"}, {\"factor\": \"Zone\", \"value\": \"Mixed\"}, {\"factor\": \"Reason\", \"value\": \"The area contains a variety of establishments including offices, medical services, shops, and residential guesthouses.\"}]",
+      "kpi_details": "[{\"factor\": \"Address\", \"value\": \"SAMILTON CHAMBERS181  1  A J C BOSE ROAD   2ND FLOOR  PS  BENIAPUKUR, KOLKATA, West Bengal - 700014\"}, {\"factor\": \"Zone\", \"value\": \"Mixed\"}, {\"factor\": \"Reason\", \"value\": \"The area contains a variety of establishments including offices, medical services, shops, and residential guesthouses.\"}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Google Address Validation"
+    },
+    {
+      "kpi_area": "DOM",
+      "kpi_code": "DOM1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Factor\": \"Domain Name\", \"Value\": \"eskocast.com\"}, {\"Factor\": \"Creation Date\", \"Value\": \"11-01-2002\"}, {\"Factor\": \"Expiration Date\", \"Value\": \"11-01-2029\"}, {\"Factor\": \"Updated Date\", \"Value\": \"18-01-2026\"}, {\"Factor\": \"Registrant Org\", \"Value\": \"\"}, {\"Factor\": \"Registrant Country\", \"Value\": \"\"}, {\"Factor\": \"Registrar\", \"Value\": \"godaddy.com, llc\"}, {\"Factor\": \"Registrar Url\", \"Value\": \"http://www.godaddy.com\"}, {\"Factor\": \"Emails\", \"Value\": \"\"}, {\"Factor\": \"Dnssec\", \"Value\": \"unsigned\"}, {\"Factor\": \"Vendor Onboarding Date (Client Database)\", \"Value\": \"\"}]",
+      "kpi_details": "[{\"Factor\": \"Domain Name\", \"Value\": \"eskocast.com\"}, {\"Factor\": \"Creation Date\", \"Value\": \"11-01-2002\"}, {\"Factor\": \"Expiration Date\", \"Value\": \"11-01-2029\"}, {\"Factor\": \"Updated Date\", \"Value\": \"18-01-2026\"}, {\"Factor\": \"Registrant Org\", \"Value\": \"\"}, {\"Factor\": \"Registrant Country\", \"Value\": \"\"}, {\"Factor\": \"Registrar\", \"Value\": \"godaddy.com, llc\"}, {\"Factor\": \"Registrar Url\", \"Value\": \"http://www.godaddy.com\"}, {\"Factor\": \"Emails\", \"Value\": \"\"}, {\"Factor\": \"Dnssec\", \"Value\": \"unsigned\"}, {\"Factor\": \"Vendor Onboarding Date (Client Database)\", \"Value\": \"\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Domain Validation"
+    }
+  ],
+  "cyber_esg_findings": true,
+  "cyber_esg_data": [
+    {
+      "kpi_area": "CYB",
+      "kpi_code": "CYB1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Resolved IP\", \"value\": \"65.1.139.83\"}, {\"factor\": \"Botnet Threat\", \"value\": \"NO\"}, {\"factor\": \"Malware Hosting Threat\", \"value\": \"NO\"}, {\"factor\": \"Command & Control Threat\", \"value\": \"NO\"}, {\"factor\": \"Spam Server Threat\", \"value\": \"NO\"}, {\"factor\": \"Overall Compromised\", \"value\": \"NO\"}, {\"factor\": \"Vendor / 3rd-Party Risk\", \"value\": \"PASS\"}, {\"factor\": \"Fraud / Compliance Flag\", \"value\": \"NO\"}]",
+      "kpi_details": "[{\"factor\": \"Resolved IP\", \"value\": \"65.1.139.83\"}, {\"factor\": \"Botnet Threat\", \"value\": \"NO\"}, {\"factor\": \"Malware Hosting Threat\", \"value\": \"NO\"}, {\"factor\": \"Command & Control Threat\", \"value\": \"NO\"}, {\"factor\": \"Spam Server Threat\", \"value\": \"NO\"}, {\"factor\": \"Overall Compromised\", \"value\": \"NO\"}, {\"factor\": \"Vendor / 3rd-Party Risk\", \"value\": \"PASS\"}, {\"factor\": \"Fraud / Compliance Flag\", \"value\": \"NO\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Cyber Risk Validation"
+    }
+  ],
+  "session_id": "baec67d7-77d4-4967-9e93-c0111d043e27",
+  "ens_id": "0e7b2d99-59a8-42f8-bb59-bdc06a4e4fab",
+  "disable-regulator-and-legal": true
+}

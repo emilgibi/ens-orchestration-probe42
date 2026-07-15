@@ -1,0 +1,331 @@
+{
+  "adverse_media_rating": "Low",
+  "financial_rating": "Medium",
+  "entity_existence_rating": "Low",
+  "legal_rating": "Medium",
+  "cyber_esg_rating": "Low",
+  "risk_level": "Low",
+  "name": "SPEED MOTORS PRIVATE LIMITED",
+  "google_image_name": "U34102UP1947PTC001835_585",
+  "uploaded_name": "Speed Motors Private Limited",
+  "external_vendor_id": "N/A",
+  "location": "UTTAR PRADESH, Uttar Pradesh",
+  "address": "3SHAH NAJAF ROAD   LUCKNOW, UTTAR PRADESH, Uttar Pradesh - 226001",
+  "e_filing_status": "Active",
+  "category": "Private Limited Indian Non-Government Company",
+  "pan_id": "AAGCS6205A (PAN Number)",
+  "alias": "SPEED MOTORS LIMITED",
+  "incorporation_date": "05/11/1947",
+  "shareholders": "SANDEEP NARAIN (36.3%)\nDIVIJ NARAIN (29.88%)\nVIDIT NARAIN (13.7%)\nRAJESH NARAIN (13.69%)\nRAJESH NARAIN H.U.F (6.43%)",
+  "revenue": "2,606,635,237",
+  "subsidiaries": "SPEED MOTOCORP PRIVATE LIMITED (99.99%)",
+  "key_executives": "DIVIJ NARAIN (Director)\nRAJESH NARAIN (Director)\nSANDEEP NARAIN (Director)\nVIDIT NARAIN (Director)\nANITA NARAIN (Director)\nRATI NARAIN (Director)\nSHANTI NARAIN (Director)",
+  "employee_count": "N/A",
+  "website": "N/A",
+  "company_corporate_group": "Shareholders: 5\nSubsidiaries: 1",
+  "identifier": "U34102UP1947PTC001835",
+  "identifier_type": "CIN",
+  "annexure": [
+    {
+      "id": "1",
+      "title": "Full List of Shareholders",
+      "contents": "\n\nSignificant Shareholders\n\n\n1. SANDEEP NARAIN 36.3%\n2. DIVIJ NARAIN 29.88%\n3. VIDIT NARAIN 13.7%\n4. RAJESH NARAIN 13.69%\n5. RAJESH NARAIN H.U.F 6.43%"
+    },
+    {
+      "id": "2",
+      "title": "Key Management Personnel",
+      "contents": "\n\n\nKey Management\n\n\n1. DIVIJ NARAIN - Director\n2. RAJESH NARAIN - Director\n3. SANDEEP NARAIN - Director\n4. VIDIT NARAIN - Director\n5. ANITA NARAIN - Director\n6. RATI NARAIN - Director\n7. SHANTI NARAIN - Director"
+    },
+    {
+      "id": "3",
+      "title": "Full List of Subsidiary",
+      "contents": "\n\n\nSubsidiary\n\n\n1. SPEED MOTOCORP PRIVATE LIMITED - 99.99%"
+    },
+    {
+      "id": "4",
+      "title": "Full List of Legal History",
+      "contents": [
+        {
+          "date": "08.02.23",
+          "case_number": "A482/23842/2022",
+          "Description": "Case No. A482/23842/2022 was filed before the High Court of Allahabad under the category of Criminal Appeals. This matter pertains to Cases Filed By This Corporate, where SPEED MOTORS PRIVATE LIMITED and Others. has initiated proceedings against State of U.P. AND ANOTHER.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Criminal Appeals"
+        },
+        {
+          "date": "19.10.21",
+          "case_number": "Original Suit/4581/2017",
+          "Description": "Case No. Original Suit/4581/2017 was filed before the Civil Judge Junior Division under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where Yogeshver Prasad has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "11.09.21",
+          "case_number": "CS CJ/1629/2016",
+          "Description": "Case No. CS CJ/1629/2016 was filed before the Civil Judge Senior Division, Chandigarh under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where M/S AMIT PAINTS has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "14.02.13",
+          "case_number": "17",
+          "Description": "Case No. 17 was filed before the High Court of Allahabad under the category of Taxation Matters. This matter pertains to Cases Filed Against This Corporate, where C I T has initiated proceedings against Speed Motor P Ltd.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Taxation Matters"
+        },
+        {
+          "date": "31.03.10",
+          "case_number": "486",
+          "Description": "Case No. 486 was filed before the High Court of Allahabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where Jyoti Rani has initiated proceedings against M/S Speed Motors Pvt. Ltd. & Others.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "31.03.10",
+          "case_number": "486",
+          "Description": "Case No. 486 was filed before the High Court of Allahabad under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where Jyoti Rani has initiated proceedings against SPEED MOTORS PRIVATE LIMITED and Others..\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "12.05.06",
+          "case_number": "ARBT/19/2005",
+          "Description": "Case No. ARBT/19/2005 was filed before the High Court of Allahabad under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where SAHU INVESTMENT MUTUAL BENEFIT CO. LTD. THRU S.K.SAHU has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "24.09.24",
+          "case_number": "IA/4151/2019",
+          "Description": "Case No. IA/4151/2019 was filed before the National Consumer Disputes Redressal Commission under the category of Applications. This matter pertains to Cases Filed By This Corporate, where M/S. SPEED MOTORS PVT. LTD. has initiated proceedings against UPPER MUKHYA ADHIKARI & ANR..\n",
+          "severity": "low",
+          "status": "Pending",
+          "category": "Applications"
+        },
+        {
+          "date": "30.08.19",
+          "case_number": "EXE /1161/2016",
+          "Description": "Case No. EXE /1161/2016 was filed before the Civil Judge Senior Division, Chandigarh under the category of Others. This matter pertains to Cases Filed Against This Corporate, where M/S PARAM ENTERPRISES has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Others"
+        },
+        {
+          "date": "26.05.16",
+          "case_number": "CS CJ /341/2015",
+          "Description": "Case No. CS CJ /341/2015 was filed before the Civil Judge Senior Division, Chandigarh under the category of Others. This matter pertains to Cases Filed Against This Corporate, where MS PARAM ENTERPRISES has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Others"
+        },
+        {
+          "date": "Unavailable",
+          "case_number": "CV/541/2018",
+          "Description": "Case No. CV/541/2018 was filed before the National Consumer Disputes Redressal Commission under the category of Others. This matter pertains to Cases Filed Against This Corporate, where UPPER MUKHYA ADHIKARI, ZILA PANCHAYAT JHANSI has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Pending",
+          "category": "Others"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Full List of Director Network",
+      "contents": [
+        {
+          "Director Name": "SHANTI NARAIN",
+          "DIN": "00748628",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (1985-09-02 \u2013 2012-04-18)"
+        },
+        {
+          "Director Name": "RAJESH NARAIN",
+          "DIN": "00752726",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (1993-01-01 \u2013 Present)\n\u2022 BEVENTUS AGRO VENTURES PRIVATE LIMITED \u2014 Director (2010-07-06 \u2013 Present) [STRIKE OFF]\n\u2022 SPEED MOTOCORP PRIVATE LIMITED \u2014 Director (2014-12-29 \u2013 Present)\n\u2022 SPEEDSAFE AUTO PRIVATE LIMITED \u2014 Director (2016-05-26 \u2013 Present)"
+        },
+        {
+          "Director Name": "RATI NARAIN",
+          "DIN": "00753046",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (1995-10-01 \u2013 2022-05-23)"
+        },
+        {
+          "Director Name": "SANDEEP NARAIN",
+          "DIN": "00753108",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (1985-09-02 \u2013 Present)\n\u2022 SPEED MOTOCORP PRIVATE LIMITED \u2014 Director (2014-12-29 \u2013 Present)"
+        },
+        {
+          "Director Name": "ANITA NARAIN",
+          "DIN": "00753175",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (1995-10-01 \u2013 2012-01-19)\n\u2022 BEVENTUS AGRO VENTURES PRIVATE LIMITED \u2014 Director (2010-07-06 \u2013 Present) [STRIKE OFF]"
+        },
+        {
+          "Director Name": "DIVIJ NARAIN",
+          "DIN": "03030319",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (2012-01-23 \u2013 Present)\n\u2022 BEVENTUS AGRO VENTURES PRIVATE LIMITED \u2014 Director (2010-07-06 \u2013 Present) [STRIKE OFF]\n\u2022 SPEED MOTOCORP PRIVATE LIMITED \u2014 Additional Director (2015-01-15 \u2013 Present)\n\u2022 SPEEDWORKS AUTO PRIVATE LIMITED \u2014 Director (2021-06-04 \u2013 Present)"
+        },
+        {
+          "Director Name": "VIDIT NARAIN",
+          "DIN": "07056540",
+          "Network": "\u2022 SPEED MOTORS PRIVATE LIMITED \u2014 Director (2022-05-23 \u2013 Present)\n\u2022 SPEED MOTOCORP PRIVATE LIMITED \u2014 Additional Director (2015-01-15 \u2013 Present)\n\u2022 SPEEDSAFE AUTO PRIVATE LIMITED \u2014 Director (2016-05-26 \u2013 Present)\n\u2022 SPEEDWORKS AUTO PRIVATE LIMITED \u2014 Director (2021-06-04 \u2013 Present)"
+        }
+      ]
+    }
+  ],
+  "legal_findings": true,
+  "legal_data": [
+    {
+      "kpi_area": "LEG",
+      "kpi_code": "LEG1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"date\": \"24.09.24\", \"case_number\": \"IA/4151/2019\", \"Description\": \"Case No. IA/4151/2019 was filed before the National Consumer Disputes Redressal Commission under the category of Applications. This matter pertains to Cases Filed By This Corporate, where M/S. SPEED MOTORS PVT. LTD. has initiated proceedings against UPPER MUKHYA ADHIKARI & ANR..\\n\", \"severity\": \"low\", \"status\": \"Pending\", \"category\": \"Applications\"}, {\"date\": \"Unavailable\", \"case_number\": \"CV/541/2018\", \"Description\": \"Case No. CV/541/2018 was filed before the National Consumer Disputes Redressal Commission under the category of Others. This matter pertains to Cases Filed Against This Corporate, where UPPER MUKHYA ADHIKARI, ZILA PANCHAYAT JHANSI has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\\n\", \"severity\": \"low\", \"status\": \"Pending\", \"category\": \"Others\"}]",
+      "kpi_details": "Following are Legal History\n1. Date: 24.09.24 | Severity: low | Status: Pending\nCase No. IA/4151/2019 was filed before the National Consumer Disputes Redressal Commission under the category of Applications. This matter pertains to Cases Filed By This Corporate, where M/S. SPEED MOTORS PVT. LTD. has initiated proceedings against UPPER MUKHYA ADHIKARI & ANR..\n\n2. Date: Unavailable | Severity: low | Status: Pending\nCase No. CV/541/2018 was filed before the National Consumer Disputes Redressal Commission under the category of Others. This matter pertains to Cases Filed Against This Corporate, where UPPER MUKHYA ADHIKARI, ZILA PANCHAYAT JHANSI has initiated proceedings against SPEED MOTORS PRIVATE LIMITED.\n",
+      "kpi_rating": "High",
+      "kpi_definition": "Legal History"
+    },
+    {
+      "kpi_area": "LEG",
+      "kpi_code": "LEG2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"date\": \"08.06.26\", \"amount\": 33621000, \"holder_name\": \"HDFC BANK LIMITED\", \"charge_type\": \"Creation\"}, {\"date\": \"08.04.26\", \"amount\": 161000000, \"holder_name\": \"BMW INDIA PRIVATE LIMITED\", \"charge_type\": \"Modification\"}, {\"date\": \"08.04.26\", \"amount\": 311400000, \"holder_name\": \"BMW INDIA FINANCIAL SERVICES PRIVATE LIMITED\", \"charge_type\": \"Modification\"}, {\"date\": \"08.04.26\", \"amount\": 39500000, \"holder_name\": \"BMW INDIA FINANCIAL SERVICES PRIVATE LIMITED\", \"charge_type\": \"Modification\"}, {\"date\": \"08.04.26\", \"amount\": 20000000, \"holder_name\": \"BMW INDIA FINANCIAL SERVICES PRIVATE LIMITED\", \"charge_type\": \"Modification\"}]",
+      "kpi_details": "1. Creation of Rs.33,621,000 in favour of HDFC BANK LIMITED dated 08.06.26\n2. Modification of Rs.161,000,000 in favour of BMW INDIA PRIVATE LIMITED dated 08.04.26\n3. Modification of Rs.311,400,000 in favour of BMW INDIA FINANCIAL SERVICES PRIVATE LIMITED dated 08.04.26\n4. Modification of Rs.39,500,000 in favour of BMW INDIA FINANCIAL SERVICES PRIVATE LIMITED dated 08.04.26\n5. Modification of Rs.20,000,000 in favour of BMW INDIA FINANCIAL SERVICES PRIVATE LIMITED dated 08.04.26\n",
+      "kpi_rating": "High",
+      "kpi_definition": "Open Charges"
+    }
+  ],
+  "adverse_media_findings": true,
+  "adverse_media_data": [
+    {
+      "kpi_area": "NWS",
+      "kpi_code": "NWS2A",
+      "kpi_flag": true,
+      "kpi_value": "Name: SPEED MOTORS PRIVATE LIMITED\nRating: 4.4\nNumber of Reviews: 1108\n\n\nReviews:\n\t1. Name: Mohd Arshad | Rating: 1\nI bought new bmw 310 rr a week ago ...I am constantly experiencing clutch issues. The bike is not picking up and producing a lot of sound. I went to service centre, they assured me that they fixed the bike but next day the same issue again came up. The bike is still at bmw service centre and I have no clue as to why my new bike is experiencing this issue. I need urgent help from the bmw India team as my trust is broken and I don't know If I have new or refurbished bike\n\n\t2. Name: siddhartha mishra | Rating: 5\nI had an exceptional experience at BMW Speed Motors! I want to make a specific mention of Mr. Mukul Tripathi, the Sales Consultant who assisted me. I walked in with a lot of questions, and the way he handled every single query was impressive.\n\nWhat stood out most was how he completely changed my perspective on the BMW X1. His deep product knowledge and genuine advice helped me see value in the car that I hadn't noticed before. If you are looking for a BMW, I highly recommend asking for Mr. Mukul\u2014his professionalism and expertise are top-notch.\n\n\t3. Name: Shashank Tiwari | Rating: 5\nIt was really amazing and memorable experience of delivering of the car. Thanks to Anas & Parampreet to make this experience memorable for our family\n\n\t4. Name: Fd Kd | Rating: 1\nDisappointing service experience\n\nFor a premium brand, the service experience here was extremely disappointing. My car remained unusable for weeks due to delays, poor communication, and lack of urgency from the service team. Multiple follow-ups were required with no clear timelines. Ghanshyam keeps changing dates every single time without providing prior communication.\n\nWhen you invest in a luxury vehicle, you expect efficiency and accountability\u2014sadly, that was missing. This experience seriously takes away from the premium ownership promise.\n\n\t5. Name: Arun Sinha | Rating: 1\nWorst service experience.\nI had to get my vehicle fixed, but Ghanshyam at BMW was extremely uncooperative. He did not pick up calls despite repeated follow-ups and showed very bad behaviour when contacted. On top of that, he kept giving vague and misleading information, which only delayed the repair and created unnecessary confusion. This is unacceptable from a brand like BMW. Strongly disappointed with the professionalism.\n\n",
+      "kpi_details": "Name: SPEED MOTORS PRIVATE LIMITED\nRating: 4.4\nNumber of Reviews: 1108\n\n\nReviews:\n\t1. Name: Mohd Arshad | Rating: 1\nI bought new bmw 310 rr a week ago ...I am constantly experiencing clutch issues. The bike is not picking up and producing a lot of sound. I went to service centre, they assured me that they fixed the bike but next day the same issue again came up. The bike is still at bmw service centre and I have no clue as to why my new bike is experiencing this issue. I need urgent help from the bmw India team as my trust is broken and I don't know If I have new or refurbished bike\n\n\t2. Name: siddhartha mishra | Rating: 5\nI had an exceptional experience at BMW Speed Motors! I want to make a specific mention of Mr. Mukul Tripathi, the Sales Consultant who assisted me. I walked in with a lot of questions, and the way he handled every single query was impressive.\n\nWhat stood out most was how he completely changed my perspective on the BMW X1. His deep product knowledge and genuine advice helped me see value in the car that I hadn't noticed before. If you are looking for a BMW, I highly recommend asking for Mr. Mukul\u2014his professionalism and expertise are top-notch.\n\n\t3. Name: Shashank Tiwari | Rating: 5\nIt was really amazing and memorable experience of delivering of the car. Thanks to Anas & Parampreet to make this experience memorable for our family\n\n\t4. Name: Fd Kd | Rating: 1\nDisappointing service experience\n\nFor a premium brand, the service experience here was extremely disappointing. My car remained unusable for weeks due to delays, poor communication, and lack of urgency from the service team. Multiple follow-ups were required with no clear timelines. Ghanshyam keeps changing dates every single time without providing prior communication.\n\nWhen you invest in a luxury vehicle, you expect efficiency and accountability\u2014sadly, that was missing. This experience seriously takes away from the premium ownership promise.\n\n\t5. Name: Arun Sinha | Rating: 1\nWorst service experience.\nI had to get my vehicle fixed, but Ghanshyam at BMW was extremely uncooperative. He did not pick up calls despite repeated follow-ups and showed very bad behaviour when contacted. On top of that, he kept giving vague and misleading information, which only delayed the repair and created unnecessary confusion. This is unacceptable from a brand like BMW. Strongly disappointed with the professionalism.\n\n",
+      "kpi_rating": "Low",
+      "kpi_definition": "Google Rating Validation"
+    }
+  ],
+  "financial_findings": true,
+  "financial_data": [
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 9167.59, \"2024\": 6180.44, \"2023\": 3806.37}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 72.54, \"2024\": 77.83, \"2023\": 79.9}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 1054.0, \"2024\": 1048.29, \"2023\": 904.74}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 7295.89, \"2024\": 5102.84, \"2023\": 3195.88}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 26.44, \"2024\": 84.96, \"2023\": 163.57}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": 2971.79, \"2024\": 2118.75, \"2023\": 1431.56}]",
+      "kpi_details": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 9167.59, \"2024\": 6180.44, \"2023\": 3806.37}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 72.54, \"2024\": 77.83, \"2023\": 79.9}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 1054.0, \"2024\": 1048.29, \"2023\": 904.74}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 7295.89, \"2024\": 5102.84, \"2023\": 3195.88}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 26.44, \"2024\": 84.96, \"2023\": 163.57}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": 2971.79, \"2024\": 2118.75, \"2023\": 1431.56}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Balance Sheet"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB3A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 26826.53, \"2024\": 24979.64, \"2023\": 18225.36}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": 853.04, \"2024\": 687.2, \"2023\": 646.11}]",
+      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 26826.53, \"2024\": 24979.64, \"2023\": 18225.36}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": 853.04, \"2024\": 687.2, \"2023\": 646.11}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Profit And Loss"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB7A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"gst_in\": \"09AAGCS6205A2ZO\", \"state_of_registration\": \"Uttar Pradesh\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"01.07.17\"}]",
+      "kpi_details": "[{\"gst_in\": \"09AAGCS6205A2ZO\", \"state_of_registration\": \"Uttar Pradesh\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"01.07.17\"}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - GST Registration Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB13A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Parameter\": \"City\", \"Value\": \"LUCKNOW\"}, {\"Parameter\": \"Amount\", \"Value\": 185776}, {\"Parameter\": \"Address\", \"Value\": \"3, SHAHNAJAF ROAD ,LUCKNOW,UTTAR PRADESH,226001,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"1947-11-05\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 60}, {\"Parameter\": \"Establishment Id\", \"Value\": \"UPLKO0001471000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"MAR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"SPEED MOTORS  PRIVATE LIMITED\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}, {\"Parameter\": \"City\", \"Value\": \"GORAKHPUR\"}, {\"Parameter\": \"Amount\", \"Value\": null}, {\"Parameter\": \"Address\", \"Value\": \"GOLGHAR GOLGHAR,GORAKHPUR,UTTAR PRADESH,273001,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": null}, {\"Parameter\": \"Working Status\", \"Value\": \"CLOSED/ALL MEMBER EXCLUDED\"}, {\"Parameter\": \"No Of Employees\", \"Value\": null}, {\"Parameter\": \"Establishment Id\", \"Value\": \"UPGKP0001472000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": null}, {\"Parameter\": \"Establishment Name\", \"Value\": \"SPEED MOTORS PVT. LTD.\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
+      "kpi_details": "[{\"Parameter\": \"City\", \"Value\": \"LUCKNOW\"}, {\"Parameter\": \"Amount\", \"Value\": 185776}, {\"Parameter\": \"Address\", \"Value\": \"3, SHAHNAJAF ROAD ,LUCKNOW,UTTAR PRADESH,226001,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"1947-11-05\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 60}, {\"Parameter\": \"Establishment Id\", \"Value\": \"UPLKO0001471000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"MAR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"SPEED MOTORS  PRIVATE LIMITED\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}, {\"Parameter\": \"City\", \"Value\": \"GORAKHPUR\"}, {\"Parameter\": \"Amount\", \"Value\": null}, {\"Parameter\": \"Address\", \"Value\": \"GOLGHAR GOLGHAR,GORAKHPUR,UTTAR PRADESH,273001,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": null}, {\"Parameter\": \"Working Status\", \"Value\": \"CLOSED/ALL MEMBER EXCLUDED\"}, {\"Parameter\": \"No Of Employees\", \"Value\": null}, {\"Parameter\": \"Establishment Id\", \"Value\": \"UPGKP0001472000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": null}, {\"Parameter\": \"Establishment Name\", \"Value\": \"SPEED MOTORS PVT. LTD.\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - EPFO Registration"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB14A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
+      "kpi_details": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Finance - Auditor Comments"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB5A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"name\": \"RAJESH NARAIN - HUF\", \"amount (\\u20b9 in Lakhs)\": 48.0, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"SPEED MOTORCORP PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 18.85, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED WORKS AUTO PVT. LTD.\", \"amount (\\u20b9 in Lakhs)\": 2.54, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED MOTOR COMPANY\", \"amount (\\u20b9 in Lakhs)\": 1.71, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED SAFE AUTO PVT. LTD.\", \"amount (\\u20b9 in Lakhs)\": 1.12, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED MOTORCORP PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 0.36, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_details": "[{\"name\": \"RAJESH NARAIN - HUF\", \"amount (\\u20b9 in Lakhs)\": 48.0, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"SPEED MOTORCORP PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 18.85, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED WORKS AUTO PVT. LTD.\", \"amount (\\u20b9 in Lakhs)\": 2.54, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED MOTOR COMPANY\", \"amount (\\u20b9 in Lakhs)\": 1.71, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED SAFE AUTO PVT. LTD.\", \"amount (\\u20b9 in Lakhs)\": 1.12, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Revenue\"}, {\"name\": \"SPEED MOTORCORP PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 0.36, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Related Party Transaction"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1B",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2023\": 3.3, \"2024\": 2.77, \"2025\": 3.2}, {\"factor\": \"EBITDA Margin (%)\", \"2023\": 5.65, \"2024\": 4.93, \"2025\": 5.8}, {\"factor\": \"ROE (%)\", \"2023\": 0.38, \"2024\": 0.31, \"2025\": 0.28}, {\"factor\": \"ROCE (%)\", \"2023\": 55.26, \"2024\": 46.46, \"2025\": 42.72}, {\"factor\": \"ROA (%)\", \"2023\": 12.63, \"2024\": 9.22, \"2025\": 8.3}]",
+      "kpi_details": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2023\": 3.3, \"2024\": 2.77, \"2025\": 3.2}, {\"factor\": \"EBITDA Margin (%)\", \"2023\": 5.65, \"2024\": 4.93, \"2025\": 5.8}, {\"factor\": \"ROE (%)\", \"2023\": 0.38, \"2024\": 0.31, \"2025\": 0.28}, {\"factor\": \"ROCE (%)\", \"2023\": 55.26, \"2024\": 46.46, \"2025\": 42.72}, {\"factor\": \"ROA (%)\", \"2023\": 12.63, \"2024\": 9.22, \"2025\": 8.3}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Profitability Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1C",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Current Ratio\", \"2023\": 1.17, \"2024\": 1.2, \"2025\": 1.26}, {\"factor\": \"Quick Ratio\", \"2023\": 0.31, \"2024\": 0.45, \"2025\": 0.31}, {\"factor\": \"Cash Ratio\", \"2023\": 0.04, \"2024\": 0.16, \"2025\": 0.03}]",
+      "kpi_details": "[{\"factor\": \"Current Ratio\", \"2023\": 1.17, \"2024\": 1.2, \"2025\": 1.26}, {\"factor\": \"Quick Ratio\", \"2023\": 0.31, \"2024\": 0.45, \"2025\": 0.31}, {\"factor\": \"Cash Ratio\", \"2023\": 0.04, \"2024\": 0.16, \"2025\": 0.03}]",
+      "kpi_rating": "High",
+      "kpi_definition": "Finance - Liquidity Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1E",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Debt Equity Ratio\", \"2023\": 2.02, \"2024\": 2.36, \"2025\": 2.36}, {\"factor\": \"Interest Coverage Ratio\", \"2023\": 16.52, \"2024\": 11.17, \"2025\": 10.27}]",
+      "kpi_details": "[{\"factor\": \"Debt Equity Ratio\", \"2023\": 2.02, \"2024\": 2.36, \"2025\": 2.36}, {\"factor\": \"Interest Coverage Ratio\", \"2023\": 16.52, \"2024\": 11.17, \"2025\": 10.27}]",
+      "kpi_rating": "High",
+      "kpi_definition": "Finance - Capital Structure"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1D",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Inventory Days\", \"2023\": 49, \"2024\": 55, \"2025\": 82}, {\"factor\": \"Debtor Days\", \"2023\": 12, \"2024\": 17, \"2025\": 24}, {\"factor\": \"Creditor Days\", \"2023\": 1, \"2024\": 2, \"2025\": 2}, {\"factor\": \"Asset Turnover Ratio\", \"2023\": 3.83, \"2024\": 3.34, \"2025\": 2.59}]",
+      "kpi_details": "[{\"factor\": \"Inventory Days\", \"2023\": 49, \"2024\": 55, \"2025\": 82}, {\"factor\": \"Debtor Days\", \"2023\": 12, \"2024\": 17, \"2025\": 24}, {\"factor\": \"Creditor Days\", \"2023\": 1, \"2024\": 2, \"2025\": 2}, {\"factor\": \"Asset Turnover Ratio\", \"2023\": 3.83, \"2024\": 3.34, \"2025\": 2.59}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Operating Cycle"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB9A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"parameter\": \"Altman Z Score (trading)\", \"calculation\": 3.28}]",
+      "kpi_details": "[{\"parameter\": \"Altman Z Score (trading)\", \"calculation\": 3.28}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Finance - Z Altman Score Analysis"
+    }
+  ],
+  "entity_existence_findings": true,
+  "entity_existence_data": [
+    {
+      "kpi_area": "ADD",
+      "kpi_code": "ADD1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Address\", \"value\": \"3SHAH NAJAF ROAD   LUCKNOW, UTTAR PRADESH, Uttar Pradesh - 226001\"}, {\"factor\": \"Zone\", \"value\": \"Commercial\"}, {\"factor\": \"Reason\", \"value\": \"Rule-based pre-score: commercial places account for 92% of weighted evidence. Incidental amenities (shops, clinics, ATMs) in an otherwise commercial area were discounted per Indian urban norms.\"}]",
+      "kpi_details": "[{\"factor\": \"Address\", \"value\": \"3SHAH NAJAF ROAD   LUCKNOW, UTTAR PRADESH, Uttar Pradesh - 226001\"}, {\"factor\": \"Zone\", \"value\": \"Commercial\"}, {\"factor\": \"Reason\", \"value\": \"Rule-based pre-score: commercial places account for 92% of weighted evidence. Incidental amenities (shops, clinics, ATMs) in an otherwise commercial area were discounted per Indian urban norms.\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Google Address Validation"
+    }
+  ],
+  "cyber_esg_data": false,
+  "session_id": "5b87fc6a-1c4b-43eb-84c2-edb596da3286",
+  "ens_id": "080c9506-c2b3-46fe-940c-5c7a0a4fd797",
+  "disable-regulator-and-legal": true
+}

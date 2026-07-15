@@ -1,0 +1,651 @@
+{
+  "adverse_media_rating": "Low",
+  "financial_rating": "Medium",
+  "entity_existence_rating": "Medium",
+  "legal_rating": "Medium",
+  "cyber_esg_rating": "Low",
+  "risk_level": "Medium",
+  "name": "UNICAST AUTOTECH PRIVATE LIMITED",
+  "google_image_name": "U34102DL2012PTC240620_669",
+  "uploaded_name": "Unicast Autotech Private Limited",
+  "external_vendor_id": "N/A",
+  "location": "NEW DELHI, Delhi",
+  "address": "27-B/7, NEW ROHTAK ROAD, NEW DELHI, Delhi - 110005",
+  "e_filing_status": "Active",
+  "category": "Private Limited Indian Non-Government Company",
+  "pan_id": "AABCU4886A (PAN Number)",
+  "alias": "",
+  "incorporation_date": "23/08/2012",
+  "shareholders": "SAHUWALA CYLINDERS PRIVATE LIMITED (99.99%)",
+  "revenue": "16,844,171",
+  "subsidiaries": "N/A",
+  "key_executives": "VIVEK KUMAR JAIN (Director)\nRAJIV KUMAR JAIN (Director)\nABHISHEK GUPTA (Director)\nGUPTA ADITYA (Director)\nPRADEEP KUMAR JAIN (Director)\nARVIND KUMAR JAIN (Director)\nSANJAY KUMAR JAIN (Director)\n+ 10 more",
+  "employee_count": "N/A",
+  "website": "N/A",
+  "company_corporate_group": "Shareholders: 1\nSubsidiaries: 0",
+  "identifier": "U34102DL2012PTC240620",
+  "identifier_type": "CIN",
+  "annexure": [
+    {
+      "id": "1",
+      "title": "Full List of Shareholders",
+      "contents": "\n\nSignificant Shareholders\n\n\n1. SAHUWALA CYLINDERS PRIVATE LIMITED 99.99%"
+    },
+    {
+      "id": "2",
+      "title": "Key Management Personnel",
+      "contents": "\n\n\nKey Management\n\n\n1. VIVEK KUMAR JAIN - Director\n2. RAJIV KUMAR JAIN - Director\n3. ABHISHEK GUPTA - Director\n4. GUPTA ADITYA - Director\n5. PRADEEP KUMAR JAIN - Director\n6. ARVIND KUMAR JAIN - Director\n7. SANJAY KUMAR JAIN - Director\n8. DEEPALI AGARWAL - Director\n9. PANKAJ AGARWAL - Director\n10. ANAND KUMAR SHARMA - Director\n11. VIPUL VAIBHAV - Director\n12. ATUL VAIBHAV - Director\n13. GEETANJALI SHARMA - Company Secretary\n14. ANANDA BABU CHEPURI - Director\n15. RUCHIKA DHIMAN - Company Secretary\n16. SIDDHI JAIN - Company Secretary\n17. NAMRATA NAIR - Company Secretary"
+    },
+    {
+      "id": "4",
+      "title": "Full List of Legal History",
+      "contents": [
+        {
+          "date": "29.05.24",
+          "case_number": "2815(ND)2024",
+          "Description": "Case No. 2815(ND)2024 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.05.24",
+          "case_number": "2815(ND)2024",
+          "Description": "Case No. 2815(ND)2024 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "06.05.24",
+          "case_number": "IA(I.B.C) - 5376/2023",
+          "Description": "Case No. IA(I.B.C) - 5376/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where Tata Capital Financial Services Limited has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Pending",
+          "category": "Insolvency"
+        },
+        {
+          "date": "31.10.23",
+          "case_number": "IA(I.B.C) - 2017/2023",
+          "Description": "Case No. IA(I.B.C) - 2017/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Pending",
+          "category": "Insolvency"
+        },
+        {
+          "date": "14.09.23",
+          "case_number": "IA(I.B.C) - 2032/2023",
+          "Description": "Case No. IA(I.B.C) - 2032/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "14.09.23",
+          "case_number": "IA(I.B.C) - 657/2023",
+          "Description": "Case No. IA(I.B.C) - 657/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where BERGER PAINTS INDIA LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "14.09.23",
+          "case_number": "IA(I.B.C) - 807/2023",
+          "Description": "Case No. IA(I.B.C) - 807/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where M/S AAR CEE Auto Components Pvt. Ltd. has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "14.09.23",
+          "case_number": "807(ND)2023",
+          "Description": "Case No. 807(ND)2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where M/S AAR CEE AUTO COMPONENTS PVT. LTD. has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "14.09.23",
+          "case_number": "2032(ND)2023",
+          "Description": "Case No. 2032(ND)2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "14.09.23",
+          "case_number": "657(ND)2023",
+          "Description": "Case No. 657(ND)2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where BERGER PAINTS INDIA LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "25.08.23",
+          "case_number": "IA(I.B.C) - 2684/2023",
+          "Description": "Case No. IA(I.B.C) - 2684/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where Mr.Himanshu Jain has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "25.08.23",
+          "case_number": "2684(ND)2023",
+          "Description": "Case No. 2684(ND)2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MR.HIMANSHU JAIN has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "24.04.23",
+          "case_number": "IA(I.B.C) - 383/2023",
+          "Description": "Case No. IA(I.B.C) - 383/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "24.04.23",
+          "case_number": "383(ND)2023",
+          "Description": "Case No. 383(ND)2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "13.12.22",
+          "case_number": "IA(I.B.C) - 5994/2022",
+          "Description": "Case No. IA(I.B.C) - 5994/2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where KANTI MOHAN RUSTAGI has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "13.12.22",
+          "case_number": "5994(ND)2022",
+          "Description": "Case No. 5994(ND)2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where KANTI MOHAN RUSTAGI has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "13.12.22",
+          "case_number": "5993(ND)2022",
+          "Description": "Case No. 5993(ND)2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where KANTI MOHAN RUSTAGI has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "16.09.22",
+          "case_number": "C.P. (IB) - 763/2021",
+          "Description": "Case No. C.P. (IB) - 763/2021 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Pending",
+          "category": "Insolvency"
+        },
+        {
+          "date": "16.09.22",
+          "case_number": "IA(I.B.C) - 4344/2022",
+          "Description": "Case No. IA(I.B.C) - 4344/2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where Kanti Mohan Rustagi has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "16.09.22",
+          "case_number": "4344(ND)2022",
+          "Description": "Case No. 4344(ND)2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where KANTI MOHAN RUSTAGI has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.08.22",
+          "case_number": "IA(I.B.C) - 4041/2022",
+          "Description": "Case No. IA(I.B.C) - 4041/2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.08.22",
+          "case_number": "IA(I.B.C) - 4090/2022",
+          "Description": "Case No. IA(I.B.C) - 4090/2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.08.22",
+          "case_number": "IA(I.B.C) - 4039/2022",
+          "Description": "Case No. IA(I.B.C) - 4039/2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.08.22",
+          "case_number": "4041(ND)2022",
+          "Description": "Case No. 4041(ND)2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.08.22",
+          "case_number": "4090(ND)2022",
+          "Description": "Case No. 4090(ND)2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "29.08.22",
+          "case_number": "4039(ND)2022",
+          "Description": "Case No. 4039(ND)2022 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Insolvency"
+        },
+        {
+          "date": "Unavailable",
+          "case_number": "Case Not Registered",
+          "Description": "Case No. Case Not Registered was filed before the Debts Recovery Tribunal under the category of Loan Recovery. This matter pertains to Cases Filed Against This Corporate, where ICICI BANK LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED and Others..\n",
+          "severity": "high",
+          "status": "Disposed",
+          "category": "Loan Recovery"
+        },
+        {
+          "date": "22.06.26",
+          "case_number": "CS /47566/2021",
+          "Description": "Case No. CS /47566/2021 was filed before the Metropolitan Magistrate Court, Calcutta under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "NI Act / Company Offences"
+        },
+        {
+          "date": "16.06.26",
+          "case_number": "S.C.C. /23282/2021",
+          "Description": "Case No. S.C.C. /23282/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Ltd - Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "NI Act / Company Offences"
+        },
+        {
+          "date": "16.04.26",
+          "case_number": "S.C.C. /23291/2021",
+          "Description": "Case No. S.C.C. /23291/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Limited Through Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "NI Act / Company Offences"
+        },
+        {
+          "date": "16.04.26",
+          "case_number": "S.C.C. /23302/2021",
+          "Description": "Case No. S.C.C. /23302/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Limited Thr Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "NI Act / Company Offences"
+        },
+        {
+          "date": "12.04.26",
+          "case_number": "CS /9370/2021",
+          "Description": "Case No. CS /9370/2021 was filed before the Metropolitan Magistrate Court, Calcutta under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "NI Act / Company Offences"
+        },
+        {
+          "date": "29.03.23",
+          "case_number": "OS/546/2022",
+          "Description": "Case No. OS/546/2022 was filed before the Principal District Court, Chengalpet, Kancheepuram under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where M/s  CMR Toyotsu Aluminium India Pvt., Ltd., has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "11.01.22",
+          "case_number": "OMP (I) (COMM.)/2383/2021",
+          "Description": "Case No. OMP (I) (COMM.)/2383/2021 was filed before the District and Sessions Judge, South , Saket under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TOYOTA FINANCIAL SERVICES INDIA LTD. has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "11.01.22",
+          "case_number": "OMP (I) (COMM.)/2384/2021",
+          "Description": "Case No. OMP (I) (COMM.)/2384/2021 was filed before the District and Sessions Judge, South , Saket under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TOYOTA FINANCIAL SERVICES INDIA LTD. has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "09.08.21",
+          "case_number": "OMP (I) (COMM.)/144/2021",
+          "Description": "Case No. OMP (I) (COMM.)/144/2021 was filed before the District and Sessions Judge,New Delhi, PHC under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "20.04.21",
+          "case_number": "O.M.P.(I) (COMM.)\u00a0\u00a0141/2021",
+          "Description": "Case No. O.M.P.(I) (COMM.)\u00a0\u00a0141/2021 was filed before the High Court of Delhi under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where SANDHAR TECHNOLOGIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED & ORS..\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "10.03.15",
+          "case_number": "O.S./8078/2014",
+          "Description": "Case No. O.S./8078/2014 was filed before the CCH1 PRL. CITY CIVIL and SESSIONS JUDGE under the category of Civil Cases. This matter pertains to Cases Filed Against This Corporate, where M/S BLUE TECH E OFFICE SOLUTIONS, M S BLUE TECH E OFFICE SOLUTIONS has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "medium",
+          "status": "Disposed",
+          "category": "Civil Cases"
+        },
+        {
+          "date": "Unavailable",
+          "case_number": "CARBPL/17614/2021",
+          "Description": "Case No. CARBPL/17614/2021 was filed before the High Court of Bombay under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PVT LTD AND 7 ORS.\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "Unavailable",
+          "case_number": "CARBP/84/2022",
+          "Description": "Case No. CARBP/84/2022 was filed before the High Court of Bombay under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL FINANCIAL SERVICES LTD - has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED and Others..\n",
+          "severity": "medium",
+          "status": "Pending",
+          "category": "Arbitration Matters"
+        },
+        {
+          "date": "09.04.26",
+          "case_number": "TA/2859/2022",
+          "Description": "Case No. TA/2859/2022 was filed before the Debts Recovery Tribunal under the category of Applications. This matter pertains to Cases Filed Against This Corporate, where ICICI BANK LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED and Others..\n",
+          "severity": "low",
+          "status": "Pending",
+          "category": "Applications"
+        },
+        {
+          "date": "04.06.24",
+          "case_number": "CS (COMM) /2164/2022",
+          "Description": "Case No. CS (COMM) /2164/2022 was filed before the District and Sessions Judge, Central, THC under the category of Others. This matter pertains to Cases Filed Against This Corporate, where AEROAIDS CORPORATION THROUGH ITS PARTNER has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Others"
+        },
+        {
+          "date": "21.08.23",
+          "case_number": "TRAFFIC CHALLAN/21938/2022",
+          "Description": "Case No. TRAFFIC CHALLAN/21938/2022 was filed before the Chief Metropolitan Magistrate, New Delhi, PHC under the category of Others. This matter pertains to Cases Filed Against This Corporate, where STATE has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Others"
+        },
+        {
+          "date": "07.09.22",
+          "case_number": "OMP (I) (COMM.) /143/2021",
+          "Description": "Case No. OMP (I) (COMM.) /143/2021 was filed before the District and Sessions Judge,New Delhi, PHC under the category of Others. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Others"
+        },
+        {
+          "date": "28.04.22",
+          "case_number": "S.C.S. /64/2021",
+          "Description": "Case No. S.C.S. /64/2021 was filed before the District and Sessions Court, DNH, Silvassa under the category of Others. This matter pertains to Cases Filed Against This Corporate, where Lubrikote Specialties Private Limited has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Others"
+        },
+        {
+          "date": "16.01.20",
+          "case_number": "WP/738/2020",
+          "Description": "Case No. WP/738/2020 was filed before the High Court of Karnataka under the category of Writs and Regulatory Matters. This matter pertains to Cases Filed Against This Corporate, where RASHMI G K has initiated proceedings against UNICAST AUTOTECH PVT LTD.\n",
+          "severity": "low",
+          "status": "Pending",
+          "category": "Writs and Regulatory Matters"
+        },
+        {
+          "date": "30.07.19",
+          "case_number": "IDact of S10/44/2017",
+          "Description": "Case No. IDact of S10/44/2017 was filed before the PRL. DISTRICT AND SESSIONS JUDGE, KOLAR under the category of Writs and Regulatory Matters. This matter pertains to Cases Filed Against This Corporate, where Rashmi G K has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n",
+          "severity": "low",
+          "status": "Disposed",
+          "category": "Writs and Regulatory Matters"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Full List of Director Network",
+      "contents": [
+        {
+          "Director Name": "SANJAY KUMAR JAIN",
+          "DIN": "00234791",
+          "Network": "\u2022 MURTI UDYOG LIMITED \u2014 Director (2009-05-01 \u2013 2012-02-09)\n\u2022 KIRAN UDYOG PRIVATE LIMITED \u2014 Whole-time director (2000-01-10 \u2013 2020-03-09) [UNDER CIRP]\n\u2022 K U DIE CASTINGS PRIVATE LIMITED \u2014 Director (1990-12-26 \u2013 2020-03-09)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2012-08-23 \u2013 2020-03-09)"
+        },
+        {
+          "Director Name": "RAJIV KUMAR JAIN",
+          "DIN": "00234872",
+          "Network": "\u2022 K U DIE CASTINGS PRIVATE LIMITED \u2014 Director (1990-12-26 \u2013 Present)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2015-12-29 \u2013 2025-03-06)\n\u2022 KIRAN UDYOG PRIVATE LIMITED \u2014 Whole-time director (2007-04-01 \u2013 Present) [UNDER CIRP]"
+        },
+        {
+          "Director Name": "ARVIND KUMAR JAIN",
+          "DIN": "00234939",
+          "Network": "\u2022 K U DIE CASTINGS PRIVATE LIMITED \u2014 Director (1990-12-26 \u2013 2021-06-21)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2012-08-23 \u2013 2025-03-06)\n\u2022 KIRAN UDYOG PRIVATE LIMITED \u2014 Managing Director (2000-01-10 \u2013 Present) [UNDER CIRP]"
+        },
+        {
+          "Director Name": "VIVEK KUMAR JAIN",
+          "DIN": "00234981",
+          "Network": "\u2022 K U DIE CASTINGS PRIVATE LIMITED \u2014 Director (1990-12-26 \u2013 Present)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2015-12-29 \u2013 2025-03-06)\n\u2022 SAVI CAKES N RIBBONS PRIVATE LIMITED \u2014 Director (2019-11-21 \u2013 Present) [STRIKE OFF]\n\u2022 KIRAN UDYOG PRIVATE LIMITED \u2014 Whole-time director (2007-04-01 \u2013 Present) [UNDER CIRP]"
+        },
+        {
+          "Director Name": "PRADEEP KUMAR JAIN",
+          "DIN": "00303976",
+          "Network": "\u2022 STARTRITE FINANCIAL SERVICES PRIVATE LIMITED \u2014 Director (2001-03-12 \u2013 Present)\n\u2022 A R J METAL PRIVATE LIMITED \u2014 Director (2013-11-11 \u2013 2015-12-30)\n\u2022 EVERGROWING INVESTMENTS AND CONSULTANTS PRIVATE LIMITED \u2014 Director (2004-09-15 \u2013 2013-11-11)\n\u2022 LEAD FINANCIAL SERVICES LIMITED \u2014 Director (2007-03-10 \u2013 2024-09-25)\n\u2022 KARNI MATA AUTO PRIVATE LIMITED \u2014 Director (2013-11-11 \u2013 2015-12-21)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2013-11-15 \u2013 2014-05-21)\n\u2022 SLS STOCK AND SHARE BROKERS PRIVATE LIMITED \u2014 Director (2004-12-10 \u2013 2008-08-12)"
+        },
+        {
+          "Director Name": "ABHISHEK GUPTA",
+          "DIN": "00671043",
+          "Network": "\u2022 SAHUWALA HIGH PRESSURE CYLINDERS PRIVATE LIMITED \u2014 Director (2006-12-01 \u2013 2009-06-22) [AMALGAMATED]\n\u2022 SAHUWALA CYLINDERS PRIVATE LIMITED \u2014 Director (2016-12-31 \u2013 Present)\n\u2022 ANG AGRO FOODS PRIVATE LIMITED \u2014 Director (2010-08-09 \u2013 2023-08-01)\n\u2022 ANJANEYA ROLLER FLOUR MILLS PRIVATE LIMITED \u2014 Director (2018-08-23 \u2013 Present)\n\u2022 GODAVARI ROLLER FLOUR MILLS PRIVATE LIMITED \u2014 Director (2019-09-03 \u2013 Present)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2024-04-11 \u2013 Present)\n\u2022 ECON TOMASETTO INDIA PRIVATE LIMITED \u2014 Director (2012-12-17 \u2013 Present) [STRIKE OFF]\n\u2022 DOLPHIN FINANCE AND INVESTMENT COMPANY LIMITED \u2014 Additional Director (2009-08-31 \u2013 2021-10-21)\n\u2022 COROMANDEL ROLLER FLOUR MILLS PVT LTD \u2014 Director (2009-06-22 \u2013 2023-08-01)\n\u2022 TIRUMALA BALAJI SLEEPERS PRIVATE LIMITED \u2014 Additional Director (2021-10-07 \u2013 2021-12-17)\n\u2022 SAHUWALA CYLINDERS UNIT-3 PRIVATE LIMITED \u2014 Director (2022-07-26 \u2013 2023-08-09)\n\u2022 SAHUWALA CYLINDERS UNIT-2 PRIVATE LIMITED \u2014 Director (2022-08-01 \u2013 2023-08-09)\n\u2022 RAJAMAHENDRI FOOD PRODUCTS PRIVATE LIMITED \u2014 Director (2022-09-28 \u2013 Present)\n\u2022 ALL INDIA HIGH PRESSURE CYLINDER MANUFACTURERS' ASOCIATION \u2014 Director (2023-01-10 \u2013 Present)\n\u2022 ARETE 22 LIMITED \u2014 Managing Director (2021-02-09 \u2013 Present)\n\u2022 GLOBAL GOURMET (I) FOODS LLP (LLP) \u2014 Designated Partner (None \u2013 Present) [STRIKE OFF]"
+        },
+        {
+          "Director Name": "GUPTA ADITYA",
+          "DIN": "00671864",
+          "Network": "\u2022 SAHUWALA CYLINDERS PRIVATE LIMITED \u2014 Director (2004-07-16 \u2013 2023-03-15)\n\u2022 NITHYA ESTATES AND DEVELOPERS INDIA PRIVATE LIMITED \u2014 Managing Director (2007-10-31 \u2013 Present)\n\u2022 MINOLTA SECURITIES LTD. \u2014 Director (2020-02-03 \u2013 2025-11-25)\n\u2022 ANJANEYA ROLLER FLOUR MILLS PRIVATE LIMITED \u2014 Director (2003-02-01 \u2013 2016-11-14)\n\u2022 GODAVARI ROLLER FLOUR MILLS PRIVATE LIMITED \u2014 Director (2002-07-08 \u2013 2019-07-20)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2024-08-20 \u2013 2026-03-03)\n\u2022 BERYLL DESIGN ONE LLP (LLP) \u2014 Designated Partner (None \u2013 Present)"
+        },
+        {
+          "Director Name": "DEEPALI AGARWAL",
+          "DIN": "03156261",
+          "Network": "\u2022 A R J METAL PRIVATE LIMITED \u2014 Director (2010-08-20 \u2013 2013-10-01)\n\u2022 KARNI MATA AUTO PRIVATE LIMITED \u2014 Director (2012-06-04 \u2013 2013-08-06)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2012-08-23 \u2013 2013-11-15)"
+        },
+        {
+          "Director Name": "PANKAJ AGARWAL",
+          "DIN": "03381413",
+          "Network": "\u2022 A R J METAL PRIVATE LIMITED \u2014 Director (2011-02-08 \u2013 2013-11-11)\n\u2022 KARNI MATA AUTO PRIVATE LIMITED \u2014 Director (2012-06-04 \u2013 2013-11-11)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2012-08-23 \u2013 2013-11-15)"
+        },
+        {
+          "Director Name": "ANAND KUMAR SHARMA",
+          "DIN": "06738295",
+          "Network": "\u2022 A R J METAL PRIVATE LIMITED \u2014 Director (2013-11-11 \u2013 2015-12-30)\n\u2022 KARNI MATA AUTO PRIVATE LIMITED \u2014 Director (2013-11-11 \u2013 2015-12-21)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2013-11-15 \u2013 2014-05-21)"
+        },
+        {
+          "Director Name": "ATUL VAIBHAV",
+          "DIN": "06932645",
+          "Network": "\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2015-04-17 \u2013 2015-12-29)\n\u2022 SHREE BALAJI TECHMAC PRIVATE LIMITED \u2014 Director (2014-08-01 \u2013 2015-12-21) [CONVERTED TO LLP]\n\u2022 OKINAWA SKILL NEXT INDIA PRIVATE LIMITED \u2014 Director (2016-01-08 \u2013 2020-03-14)"
+        },
+        {
+          "Director Name": "VIPUL VAIBHAV",
+          "DIN": "06938597",
+          "Network": "\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2015-04-17 \u2013 2015-12-29)\n\u2022 SHREE BALAJI TECHMAC PRIVATE LIMITED \u2014 Director (2014-08-01 \u2013 2015-12-21) [CONVERTED TO LLP]"
+        },
+        {
+          "Director Name": "ANANDA BABU CHEPURI",
+          "DIN": "10270908",
+          "Network": "\u2022 SAHUWALA CYLINDERS PRIVATE LIMITED \u2014 Director (2023-08-09 \u2013 Present)\n\u2022 UNICAST AUTOTECH PRIVATE LIMITED \u2014 Director (2024-09-09 \u2013 Present)"
+        }
+      ]
+    }
+  ],
+  "legal_findings": true,
+  "legal_data": [
+    {
+      "kpi_area": "LEG",
+      "kpi_code": "LEG1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"date\": \"06.05.24\", \"case_number\": \"IA(I.B.C) - 5376/2023\", \"Description\": \"Case No. IA(I.B.C) - 5376/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where Tata Capital Financial Services Limited has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"high\", \"status\": \"Pending\", \"category\": \"Insolvency\"}, {\"date\": \"31.10.23\", \"case_number\": \"IA(I.B.C) - 2017/2023\", \"Description\": \"Case No. IA(I.B.C) - 2017/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"high\", \"status\": \"Pending\", \"category\": \"Insolvency\"}, {\"date\": \"16.09.22\", \"case_number\": \"C.P. (IB) - 763/2021\", \"Description\": \"Case No. C.P. (IB) - 763/2021 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"high\", \"status\": \"Pending\", \"category\": \"Insolvency\"}, {\"date\": \"22.06.26\", \"case_number\": \"CS /47566/2021\", \"Description\": \"Case No. CS /47566/2021 was filed before the Metropolitan Magistrate Court, Calcutta under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"NI Act / Company Offences\"}, {\"date\": \"16.06.26\", \"case_number\": \"S.C.C. /23282/2021\", \"Description\": \"Case No. S.C.C. /23282/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Ltd - Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"NI Act / Company Offences\"}, {\"date\": \"16.04.26\", \"case_number\": \"S.C.C. /23291/2021\", \"Description\": \"Case No. S.C.C. /23291/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Limited Through Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"NI Act / Company Offences\"}, {\"date\": \"16.04.26\", \"case_number\": \"S.C.C. /23302/2021\", \"Description\": \"Case No. S.C.C. /23302/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Limited Thr Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"NI Act / Company Offences\"}, {\"date\": \"12.04.26\", \"case_number\": \"CS /9370/2021\", \"Description\": \"Case No. CS /9370/2021 was filed before the Metropolitan Magistrate Court, Calcutta under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"NI Act / Company Offences\"}, {\"date\": \"Unavailable\", \"case_number\": \"CARBPL/17614/2021\", \"Description\": \"Case No. CARBPL/17614/2021 was filed before the High Court of Bombay under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PVT LTD AND 7 ORS.\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"Arbitration Matters\"}, {\"date\": \"Unavailable\", \"case_number\": \"CARBP/84/2022\", \"Description\": \"Case No. CARBP/84/2022 was filed before the High Court of Bombay under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL FINANCIAL SERVICES LTD - has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED and Others..\\n\", \"severity\": \"medium\", \"status\": \"Pending\", \"category\": \"Arbitration Matters\"}]",
+      "kpi_details": "Following are Legal History\n1. Date: 06.05.24 | Severity: high | Status: Pending\nCase No. IA(I.B.C) - 5376/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where Tata Capital Financial Services Limited has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n2. Date: 31.10.23 | Severity: high | Status: Pending\nCase No. IA(I.B.C) - 2017/2023 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n3. Date: 16.09.22 | Severity: high | Status: Pending\nCase No. C.P. (IB) - 763/2021 was filed before the National Company Law Tribunal under the category of Insolvency. This matter pertains to Cases Filed Against This Corporate, where MINDA INDUSTRIES LIMITED has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n4. Date: 22.06.26 | Severity: medium | Status: Pending\nCase No. CS /47566/2021 was filed before the Metropolitan Magistrate Court, Calcutta under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n5. Date: 16.06.26 | Severity: medium | Status: Pending\nCase No. S.C.C. /23282/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Ltd - Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n6. Date: 16.04.26 | Severity: medium | Status: Pending\nCase No. S.C.C. /23291/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Limited Through Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n7. Date: 16.04.26 | Severity: medium | Status: Pending\nCase No. S.C.C. /23302/2021 was filed before the Chief Judicial Magistrate, Pune under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where Bajaj Finance Limited Thr Bhushan Ashok Jiwade has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n8. Date: 12.04.26 | Severity: medium | Status: Pending\nCase No. CS /9370/2021 was filed before the Metropolitan Magistrate Court, Calcutta under the category of NI Act / Company Offences. This matter pertains to Cases Filed Against This Corporate, where INCRED FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED.\n\n9. Date: Unavailable | Severity: medium | Status: Pending\nCase No. CARBPL/17614/2021 was filed before the High Court of Bombay under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL FINANCIAL SERVICES LTD has initiated proceedings against UNICAST AUTOTECH PVT LTD AND 7 ORS.\n\n10. Date: Unavailable | Severity: medium | Status: Pending\nCase No. CARBP/84/2022 was filed before the High Court of Bombay under the category of Arbitration Matters. This matter pertains to Cases Filed Against This Corporate, where TATA CAPITAL FINANCIAL SERVICES LTD - has initiated proceedings against UNICAST AUTOTECH PRIVATE LIMITED and Others..\n",
+      "kpi_rating": "High",
+      "kpi_definition": "Legal History"
+    },
+    {
+      "kpi_area": "LEG",
+      "kpi_code": "LEG2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"date\": \"31.07.17\", \"amount\": 30000000, \"holder_name\": \"MAHINDRA AND MAHINDRA FINANCIAL SERVICES LIMITED\", \"charge_type\": \"Creation\"}, {\"date\": \"14.08.14\", \"amount\": 8192202, \"holder_name\": \"SIEMENS FINANCIAL SERVICES PRIVATE LIMITED\", \"charge_type\": \"Creation\"}, {\"date\": \"17.06.14\", \"amount\": 22396249, \"holder_name\": \"SIEMENS FINANCIAL SERVICES PRIVATE LIMITED\", \"charge_type\": \"Creation\"}, {\"date\": \"23.09.13\", \"amount\": 12900000, \"holder_name\": \"SIEMENS FINANCIAL SERVICES PRIVATE LIMITED\", \"charge_type\": \"Creation\"}]",
+      "kpi_details": "1. Creation of Rs.30,000,000 in favour of MAHINDRA AND MAHINDRA FINANCIAL SERVICES LIMITED dated 31.07.17\n2. Creation of Rs.8,192,202 in favour of SIEMENS FINANCIAL SERVICES PRIVATE LIMITED dated 14.08.14\n3. Creation of Rs.22,396,249 in favour of SIEMENS FINANCIAL SERVICES PRIVATE LIMITED dated 17.06.14\n4. Creation of Rs.12,900,000 in favour of SIEMENS FINANCIAL SERVICES PRIVATE LIMITED dated 23.09.13\n",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Open Charges"
+    }
+  ],
+  "adverse_media_findings": false,
+  "financial_findings": true,
+  "financial_data": [
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB10A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"MSME Status (Verified)\", \"value\": \"Unknown\"}, {\"factor\": \"MSME Status (Client Database)\", \"value\": \"Not Provided\"}, {\"factor\": \"Reason\", \"value\": \"MSME status unavailable or could not be confidently matched\"}]",
+      "kpi_details": "[{\"factor\": \"MSME Status (Verified)\", \"value\": \"Unknown\"}, {\"factor\": \"MSME Status (Client Database)\", \"value\": \"Not Provided\"}, {\"factor\": \"Reason\", \"value\": \"MSME status unavailable or could not be confidently matched\"}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - MSME Registration Status"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB5A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_details": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Related Party Transaction"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB13A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 164940}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 48}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
+      "kpi_details": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 164940}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 48}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - EPFO Registration"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB14A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
+      "kpi_details": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
+      "kpi_rating": "Low",
+      "kpi_definition": "Finance - Auditor Comments"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1B",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2024\": null, \"2025\": -1111.09}, {\"factor\": \"EBITDA Margin (%)\", \"2024\": null, \"2025\": -567.97}, {\"factor\": \"ROE (%)\", \"2024\": 0.72, \"2025\": 8.67}, {\"factor\": \"ROCE (%)\", \"2024\": 25.42, \"2025\": -49.79}, {\"factor\": \"ROA (%)\", \"2024\": 26.39, \"2025\": -43.72}]",
+      "kpi_details": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2024\": null, \"2025\": -1111.09}, {\"factor\": \"EBITDA Margin (%)\", \"2024\": null, \"2025\": -567.97}, {\"factor\": \"ROE (%)\", \"2024\": 0.72, \"2025\": 8.67}, {\"factor\": \"ROCE (%)\", \"2024\": 25.42, \"2025\": -49.79}, {\"factor\": \"ROA (%)\", \"2024\": 26.39, \"2025\": -43.72}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Profitability Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1C",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Current Ratio\", \"2024\": 36.46, \"2025\": 0.51}, {\"factor\": \"Quick Ratio\", \"2024\": 36.46, \"2025\": 0.38}, {\"factor\": \"Cash Ratio\", \"2024\": 4.33, \"2025\": 0.0}]",
+      "kpi_details": "[{\"factor\": \"Current Ratio\", \"2024\": 36.46, \"2025\": 0.51}, {\"factor\": \"Quick Ratio\", \"2024\": 36.46, \"2025\": 0.38}, {\"factor\": \"Cash Ratio\", \"2024\": 4.33, \"2025\": 0.0}]",
+      "kpi_rating": "High",
+      "kpi_definition": "Finance - Liquidity Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1E",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Debt Equity Ratio\", \"2024\": 1.72, \"2025\": -20.84}, {\"factor\": \"Interest Coverage Ratio\", \"2024\": null, \"2025\": -3.4}]",
+      "kpi_details": "[{\"factor\": \"Debt Equity Ratio\", \"2024\": 1.72, \"2025\": -20.84}, {\"factor\": \"Interest Coverage Ratio\", \"2024\": null, \"2025\": -3.4}]",
+      "kpi_rating": "High",
+      "kpi_definition": "Finance - Capital Structure"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1D",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
+      "kpi_details": "[{\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Operating Cycle"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 469.92, \"2024\": 420.79}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 82.83, \"2024\": 151.76}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3727.85, \"2024\": 3928.85}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 920.3, \"2024\": 11.54}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 3576.1, \"2024\": 2834.12}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": -215.8, \"2024\": 1655.74}]",
+      "kpi_details": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 469.92, \"2024\": 420.79}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 82.83, \"2024\": 151.76}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3727.85, \"2024\": 3928.85}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 920.3, \"2024\": 11.54}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 3576.1, \"2024\": 2834.12}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": -215.8, \"2024\": 1655.74}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Balance Sheet"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB3A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Profit And Loss"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB6A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from BB(CE)/Stable)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from A4(CE))\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}]",
+      "kpi_details": "[{\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from BB(CE)/Stable)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from A4(CE))\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Credit Risk Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB7A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
+      "kpi_details": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - GST Registration Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB9A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"parameter\": \"Altman Z Score (manufacturing)\", \"calculation\": -1.55}]",
+      "kpi_details": "[{\"parameter\": \"Altman Z Score (manufacturing)\", \"calculation\": -1.55}]",
+      "kpi_rating": "High",
+      "kpi_definition": "Finance - Z Altman Score Analysis"
+    }
+  ],
+  "entity_existence_findings": true,
+  "entity_existence_data": [
+    {
+      "kpi_area": "ADD",
+      "kpi_code": "ADD1A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Address\", \"value\": \"27-B/7, NEW ROHTAK ROAD, NEW DELHI, Delhi - 110005\"}, {\"factor\": \"Zone\", \"value\": \"Mixed\"}, {\"factor\": \"Reason\", \"value\": \"The presence of residences, various commercial establishments, hospitals, and places of worship indicates a mixture of residential and commercial activities.\"}]",
+      "kpi_details": "[{\"factor\": \"Address\", \"value\": \"27-B/7, NEW ROHTAK ROAD, NEW DELHI, Delhi - 110005\"}, {\"factor\": \"Zone\", \"value\": \"Mixed\"}, {\"factor\": \"Reason\", \"value\": \"The presence of residences, various commercial establishments, hospitals, and places of worship indicates a mixture of residential and commercial activities.\"}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Google Address Validation"
+    }
+  ],
+  "cyber_esg_data": false,
+  "session_id": "baec67d7-77d4-4967-9e93-c0111d043e27",
+  "ens_id": "192777a6-be22-4e49-85f0-3e569d42ddd7",
+  "disable-regulator-and-legal": true
+}

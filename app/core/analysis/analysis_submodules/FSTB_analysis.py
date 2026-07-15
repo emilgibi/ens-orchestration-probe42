@@ -764,6 +764,16 @@ async def z_altman_score_analysis(data, session):
         total_liabilities = to_float(factors.get("total_liabilities"))
         sales = to_float(factors.get("sales"))
 
+        logger.info(
+            f"Z Altman Inputs - Working Capital: {working_capital}, "
+            f"Retained Earnings: {retained_earnings}, "
+            f"EBIT: {ebit}, "
+            f"Total Assets: {total_assets}, "
+            f"Total Equity: {total_equity}, "
+            f"Total Liabilities: {total_liabilities}, "
+            f"Sales: {sales}"
+        )
+
         if sales is None:
             sales = 0.0
 
@@ -1033,6 +1043,10 @@ def calculate_financial_ratios(ratio_factors):
             cost_of_materials + purchases_stock + change_inventory
             if None not in (cost_of_materials, purchases_stock, change_inventory)
             else None
+        )
+
+        logger.info(
+            f"Year: {year} | COGS used for Inventory Days and Creditor Days: {cogs}"
         )
 
         # Derived
