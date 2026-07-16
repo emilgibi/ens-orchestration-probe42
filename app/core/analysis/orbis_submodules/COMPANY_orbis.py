@@ -268,11 +268,12 @@ def _cfg(key: str, default: str = "") -> str:
     return os.getenv(key, default).strip().strip('"').strip("'")
 
 
-def _call_gemini(probe42_data: dict, brief_type: str, procurement_context: dict | None) -> str:
-    key   = _cfg("GEMINI__API_KEY")
-    model = _cfg("GEMINI_MODEL", "gemini-2.5-flash")
-    if not key:
-        raise RuntimeError("GEMINI_API_KEY not set in .env")
+def _call_openai(probe42_data: dict, brief_type: str, procurement_context: dict | None) -> str:
+    endpoint = _cfg("OPENAI__AZURE_ENDPOINT")
+    key = _cfg("OPENAI__API_KEY")
+    model = _cfg("OPENAI__MODEL_DEPLOYMENT_NAME", "gpt-5.1")
+    if not endpoint or not key:
+        raise RuntimeError("OPENAI__AZURE_ENDPOINT / OPENAI__API_KEY not set in .env")
 
     system = _PROCUREMENT_SYSTEM if brief_type == "procurement" else _GENERIC_SYSTEM
 
@@ -282,38 +283,23 @@ def _call_gemini(probe42_data: dict, brief_type: str, procurement_context: dict 
     else:
         data_text = f"Vendor data:\n\n{json.dumps(probe42_data, ensure_ascii=False, indent=2)}"
 
-    prompt = f"{system}\n\n{data_text}"
+    client = OpenAI(
+        base_url=f"{endpoint.rstrip('/')}/openai/v1/",
+        api_key=key,
+    )
 
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature":     0.3,
-            "maxOutputTokens": 1500,
-            "thinkingConfig":  {"thinkingBudget": 0},
-        },
-    }).encode("utf-8")
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
-
-    ctx_ssl = ssl.create_default_context()
-    ctx_ssl.check_hostname = False
-    ctx_ssl.verify_flags   = ssl.VERIFY_DEFAULT
-
-    req = urllib.request.Request(url, data=body, method="POST",
-                                 headers={"Content-Type": "application/json"})
     try:
-        with urllib.request.urlopen(req, context=ctx_ssl, timeout=60) as r:
-            resp_json = json.loads(r.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"Gemini API HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:800]}")
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": data_text},
+            ],
+            max_completion_tokens=4000,
+        )
+        return response.choices[0].message.content.strip()
     except Exception as e:
-        raise RuntimeError(f"Gemini API call failed: {e}")
-
-    try:
-        return resp_json["candidates"][0]["content"]["parts"][0]["text"]
-    except (KeyError, IndexError, TypeError):
-        raise RuntimeError(f"Unexpected Gemini response: {json.dumps(resp_json)[:400]}")
-
+        raise RuntimeError(f"Azure OpenAI call failed: {e}")
 
 async def generate_vendor_ai_brief(data: dict, session) -> dict:
     """
@@ -354,13 +340,13 @@ async def generate_vendor_ai_brief(data: dict, session) -> dict:
 
     # 3. Call Gemini
     try:
-        brief_text = _call_gemini(
+        brief_text = _call_openai(
             probe42_data=row["probe42_data"],
             brief_type=brief_type,
             procurement_context=procurement_context,
         )
     except RuntimeError as e:
-        logger.error(f"Gemini call failed for {identifier}: {e}")
+        logger.error(f"OpenAI call failed for {identifier}: {e}")
         return {
             "module": "vendor_ai_brief",
             "status": "failed",
