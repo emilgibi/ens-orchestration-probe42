@@ -133,7 +133,7 @@ async def sanctions_employee_analysis(data, session):
 
         LEG3B = kpi_template.copy()
         LEG3B["kpi_code"] = "LEG3B"
-        LEG3B["kpi_definition"] = "Sanctions - Employee"
+        LEG3B["kpi_definition"] = "Sanctions - Key Management Personnel (KMP)"
 
         # ───────────────── Fetch DB data ─────────────────
         retrieved_data = await get_dynamic_ens_data(

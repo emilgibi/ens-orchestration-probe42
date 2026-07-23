@@ -10,7 +10,6 @@ Formula:
 """
 
 import logging
-from functools import lru_cache
 from pathlib import Path
 from typing import Optional
 
@@ -50,7 +49,15 @@ _REQUIRED_COLS: frozenset[str] = frozenset({"region_l2", "division"} | set(HAZAR
 _ADMIN_NOT_AVAILABLE = "administrative unit not available"
 
 
-@lru_cache(maxsize=1)
+# Simple mtime-aware cache: re-parses thinkhzrd.csv only when its file
+# modification time changes, instead of caching forever for the life of
+# the process (the old @lru_cache(maxsize=1) behavior). This means
+# updating the CSV with new districts is picked up automatically on the
+# next request — no service restart needed — while still avoiding a
+# full re-parse on every single call.
+_cache: dict = {"df": None, "mtime": None}
+
+
 def _load_data() -> pd.DataFrame:
     if not _CSV_PATH.exists():
         raise FileNotFoundError(
@@ -58,6 +65,17 @@ def _load_data() -> pd.DataFrame:
             "Place thinkhzrd.csv in data/."
         )
 
+    mtime = _CSV_PATH.stat().st_mtime
+    if _cache["df"] is not None and _cache["mtime"] == mtime:
+        return _cache["df"]
+
+    valid = _parse_data()
+    _cache["df"] = valid
+    _cache["mtime"] = mtime
+    return valid
+
+
+def _parse_data() -> pd.DataFrame:
     logger.info("Loading ThinkHazard climate risk data from %s", _CSV_PATH.name)
     df = pd.read_csv(_CSV_PATH)
     df.columns = [str(c).strip() for c in df.columns]

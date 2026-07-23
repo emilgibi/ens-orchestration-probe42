@@ -34,7 +34,7 @@
     {
       "id": "2",
       "title": "Key Management Personnel",
-      "contents": "\n\n\nKey Management\n\n\n1. VIVEK KUMAR JAIN - Director\n2. RAJIV KUMAR JAIN - Director\n3. ABHISHEK GUPTA - Director\n4. GUPTA ADITYA - Director\n5. PRADEEP KUMAR JAIN - Director\n6. ARVIND KUMAR JAIN - Director\n7. SANJAY KUMAR JAIN - Director\n8. DEEPALI AGARWAL - Director\n9. PANKAJ AGARWAL - Director\n10. ANAND KUMAR SHARMA - Director\n11. VIPUL VAIBHAV - Director\n12. ATUL VAIBHAV - Director\n13. GEETANJALI SHARMA - Company Secretary\n14. ANANDA BABU CHEPURI - Director\n15. RUCHIKA DHIMAN - Company Secretary\n16. SIDDHI JAIN - Company Secretary\n17. NAMRATA NAIR - Company Secretary"
+      "contents": "\n\n\nKey Management\n\n\n1. VIVEK KUMAR JAIN - Director\n2. RAJIV KUMAR JAIN - Director\n3. ABHISHEK GUPTA - Director\n4. GUPTA ADITYA - Director\n5. PRADEEP KUMAR JAIN - Director\n6. ARVIND KUMAR JAIN - Director\n7. SANJAY KUMAR JAIN - Director\n8. DEEPALI AGARWAL - Director\n9. PANKAJ AGARWAL - Director\n10. ANAND KUMAR SHARMA - Director\n11. VIPUL VAIBHAV - Director\n12. ATUL VAIBHAV - Director\n13. GEETANJALI SHARMA - Company Secretary\n14. ANANDA BABU CHEPURI - Director\n15. NAMRATA NAIR - Company Secretary\n16. SIDDHI JAIN - Company Secretary\n17. RUCHIKA DHIMAN - Company Secretary"
     },
     {
       "id": "4",
@@ -525,19 +525,10 @@
     },
     {
       "kpi_area": "FSTB",
-      "kpi_code": "FSTB5A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
-      "kpi_details": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
-      "kpi_rating": "INFO",
-      "kpi_definition": "Finance - Related Party Transaction"
-    },
-    {
-      "kpi_area": "FSTB",
       "kpi_code": "FSTB13A",
       "kpi_flag": true,
-      "kpi_value": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 164940}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 48}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
-      "kpi_details": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 164940}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 48}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"APR-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
+      "kpi_value": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 193792}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 59}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"MAY-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
+      "kpi_details": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 193792}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 59}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"MAY-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
       "kpi_rating": "INFO",
       "kpi_definition": "Finance - EPFO Registration"
     },
@@ -549,6 +540,24 @@
       "kpi_details": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
       "kpi_rating": "Low",
       "kpi_definition": "Finance - Auditor Comments"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB2A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 469.92, \"2024\": 420.79}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 82.83, \"2024\": 151.76}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3727.85, \"2024\": 3928.85}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 920.3, \"2024\": 11.54}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 3576.1, \"2024\": 2834.12}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": -215.8, \"2024\": 1655.74}]",
+      "kpi_details": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 469.92, \"2024\": 420.79}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 82.83, \"2024\": 151.76}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3727.85, \"2024\": 3928.85}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 920.3, \"2024\": 11.54}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 3576.1, \"2024\": 2834.12}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": -215.8, \"2024\": 1655.74}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Balance Sheet"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB3A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Profit And Loss"
     },
     {
       "kpi_area": "FSTB",
@@ -581,28 +590,10 @@
       "kpi_area": "FSTB",
       "kpi_code": "FSTB1D",
       "kpi_flag": true,
-      "kpi_value": "[{\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
-      "kpi_details": "[{\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
+      "kpi_value": "[{\"factor\": \"Inventory Days\", \"2024\": null, \"2025\": 373}, {\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Creditor Days\", \"2024\": null, \"2025\": 405}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
+      "kpi_details": "[{\"factor\": \"Inventory Days\", \"2024\": null, \"2025\": 373}, {\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Creditor Days\", \"2024\": null, \"2025\": 405}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
       "kpi_rating": "Medium",
       "kpi_definition": "Finance - Operating Cycle"
-    },
-    {
-      "kpi_area": "FSTB",
-      "kpi_code": "FSTB2A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 469.92, \"2024\": 420.79}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 82.83, \"2024\": 151.76}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3727.85, \"2024\": 3928.85}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 920.3, \"2024\": 11.54}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 3576.1, \"2024\": 2834.12}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": -215.8, \"2024\": 1655.74}]",
-      "kpi_details": "[{\"factor\": \"Total Current Assets (\\u20b9 in Lakhs)\", \"2025\": 469.92, \"2024\": 420.79}, {\"factor\": \"Total Other Non Current Assets (\\u20b9 in Lakhs)\", \"2025\": 82.83, \"2024\": 151.76}, {\"factor\": \"Net Fixed Assets (\\u20b9 in Lakhs)\", \"2025\": 3727.85, \"2024\": 3928.85}, {\"factor\": \"Total Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 920.3, \"2024\": 11.54}, {\"factor\": \"Total Non Current Liabilities (\\u20b9 in Lakhs)\", \"2025\": 3576.1, \"2024\": 2834.12}, {\"factor\": \"Total Equity (\\u20b9 in Lakhs)\", \"2025\": -215.8, \"2024\": 1655.74}]",
-      "kpi_rating": "INFO",
-      "kpi_definition": "Finance - Balance Sheet"
-    },
-    {
-      "kpi_area": "FSTB",
-      "kpi_code": "FSTB3A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
-      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
-      "kpi_rating": "INFO",
-      "kpi_definition": "Finance - Profit And Loss"
     },
     {
       "kpi_area": "FSTB",
@@ -621,6 +612,15 @@
       "kpi_details": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
       "kpi_rating": "Medium",
       "kpi_definition": "Finance - GST Registration Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB5A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_details": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Related Party Transaction"
     },
     {
       "kpi_area": "FSTB",
@@ -645,7 +645,7 @@
     }
   ],
   "cyber_esg_data": false,
-  "session_id": "baec67d7-77d4-4967-9e93-c0111d043e27",
+  "session_id": "ace9d78c-e089-46ad-851e-3fc08c6ea738",
   "ens_id": "192777a6-be22-4e49-85f0-3e569d42ddd7",
   "disable-regulator-and-legal": true
 }

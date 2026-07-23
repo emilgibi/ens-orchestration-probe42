@@ -6,7 +6,6 @@ No database, no LLM — pure file-based, deterministic.
 """
 
 import logging
-from functools import lru_cache
 from pathlib import Path
 
 import pandas as pd
@@ -31,7 +30,13 @@ _REQUIRED_COLS: frozenset[str] = frozenset({
 })
 
 
-@lru_cache(maxsize=1)
+# Simple mtime-aware cache — see climate_static_risk_service.py for the
+# same pattern and reasoning. Re-parses ACLED_updated.xlsx only when its
+# file modification time changes, so updating it with new districts is
+# picked up automatically on the next request, no restart needed.
+_cache: dict = {"districts": None, "grand_total": None, "mtime": None}
+
+
 def _load_data() -> tuple[pd.DataFrame, pd.Series]:
     if not _EXCEL_PATH.exists():
         raise FileNotFoundError(
@@ -39,6 +44,18 @@ def _load_data() -> tuple[pd.DataFrame, pd.Series]:
             "Place ACLED_updated.xlsx in data/."
         )
 
+    mtime = _EXCEL_PATH.stat().st_mtime
+    if _cache["districts"] is not None and _cache["mtime"] == mtime:
+        return _cache["districts"], _cache["grand_total"]
+
+    districts, grand_total = _parse_data()
+    _cache["districts"] = districts
+    _cache["grand_total"] = grand_total
+    _cache["mtime"] = mtime
+    return districts, grand_total
+
+
+def _parse_data() -> tuple[pd.DataFrame, pd.Series]:
     logger.info("Loading ACLED political risk data from %s", _EXCEL_PATH.name)
     df = pd.read_excel(_EXCEL_PATH, header=1)
     df.columns = [str(c).strip() for c in df.columns]

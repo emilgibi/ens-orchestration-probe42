@@ -764,16 +764,6 @@ async def z_altman_score_analysis(data, session):
         total_liabilities = to_float(factors.get("total_liabilities"))
         sales = to_float(factors.get("sales"))
 
-        logger.info(
-            f"Z Altman Inputs - Working Capital: {working_capital}, "
-            f"Retained Earnings: {retained_earnings}, "
-            f"EBIT: {ebit}, "
-            f"Total Assets: {total_assets}, "
-            f"Total Equity: {total_equity}, "
-            f"Total Liabilities: {total_liabilities}, "
-            f"Sales: {sales}"
-        )
-
         if sales is None:
             sales = 0.0
 
@@ -1025,7 +1015,17 @@ def calculate_financial_ratios(ratio_factors):
             year
         )
 
-        # COGS construction
+        # ── COGS construction (Nature-of-Entity aware) ──────────────────────
+        # Manufacturing (Cost of Materials Consumed > 0):
+        #     COGS = Cost of Materials Consumed
+        #          + Purchases of Stock in Trade
+        #          + Change in Inventory of Finished Goods, WIP and Stock in Trade
+        # Trading (no / non-positive Cost of Materials Consumed):
+        #     COGS = Purchases of Stock in Trade
+        #          + Change in Inventory of Finished Goods, WIP and Stock in Trade
+        # Purchases of Stock in Trade defaults to 0 if unavailable, for both natures.
+        # Change in Inventory = Opening Inventory - Closing Inventory (already the
+        # sign convention of the extracted "changes in inventories" P&L line).
         cost_of_materials = extract(
             ratio_factors.get("total_cost_of_materials_consumed"),
             year
@@ -1039,15 +1039,22 @@ def calculate_financial_ratios(ratio_factors):
             year
         )
 
-        cogs = (
-            cost_of_materials + purchases_stock + change_inventory
-            if None not in (cost_of_materials, purchases_stock, change_inventory)
-            else None
-        )
+        purchases_stock_for_cogs = purchases_stock if purchases_stock is not None else 0
 
-        logger.info(
-            f"Year: {year} | COGS used for Inventory Days and Creditor Days: {cogs}"
-        )
+        if cost_of_materials is not None and cost_of_materials > 0:
+            # Manufacturing entity
+            cogs = (
+                cost_of_materials + purchases_stock_for_cogs + change_inventory
+                if change_inventory is not None
+                else None
+            )
+        else:
+            # Trading entity
+            cogs = (
+                purchases_stock_for_cogs + change_inventory
+                if change_inventory is not None
+                else None
+            )
 
         # Derived
         ebitda = (

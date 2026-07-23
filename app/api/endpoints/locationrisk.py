@@ -22,6 +22,79 @@ router = APIRouter()
 
 
 @router.get(
+    "/available-locations",
+    summary="List every district with static risk data, and which dimensions cover it",
+    description=(
+        "Returns every district name known to the underlying static data "
+        "sources (thinkhzrd.csv for climate, ACLED_updated.xlsx for "
+        "political), each flagged with which of the three dimensions "
+        "(political / climate / infrastructure) actually has data for it. "
+        "Infrastructure requires both political AND climate data, since "
+        "its score is derived from both.\n\n"
+        "Intended to power a search/autocomplete UI instead of free text — "
+        "most district names a user might type have no data in either "
+        "source at all, and this lets the frontend only offer names that "
+        "will actually resolve."
+    ),
+    status_code=status.HTTP_200_OK,
+)
+async def get_available_locations() -> dict:
+    from app.core.analysis.location_risk_submodules.climate_static_risk_service import (
+        _load_data as _load_climate,
+    )
+    from app.core.analysis.location_risk_submodules.political_static_risk_service import (
+        _load_data as _load_political,
+    )
+
+    try:
+        climate_df = _load_climate()
+        political_df, _ = _load_political()
+    except FileNotFoundError as exc:
+        logger.error("Data file missing while building available-locations: %s", exc)
+        raise HTTPException(status_code=status.HTTP_503_SERVICE_UNAVAILABLE, detail=str(exc)) from exc
+
+    # division -> state, from the climate source (thinkhzrd.csv already
+    # excludes "Administrative unit not available" rows in _load_data()).
+    climate_map: dict[str, str] = {}
+    for _, row in climate_df.iterrows():
+        name = str(row["division"]).strip()
+        if name and name.lower() != "nan":
+            climate_map[name] = str(row["region_l2"]).strip()
+
+    political_names: set[str] = {
+        str(n).strip() for n in political_df["Row Labels"].tolist()
+        if str(n).strip().lower() not in ("nan", "", "(blank)", "none")
+    }
+
+    all_names = set(climate_map.keys()) | political_names
+
+    locations = []
+    for name in sorted(all_names):
+        has_climate = name in climate_map
+        has_political = name in political_names
+        locations.append({
+            "name": name,
+            "state": climate_map.get(name),
+            "political": has_political,
+            "climate": has_climate,
+            # Infra score = 0.6*climate + 0.4*political — needs both to be meaningful.
+            "infrastructure": has_climate and has_political,
+        })
+
+    full_coverage = sum(1 for l in locations if l["infrastructure"])
+    logger.info(
+        "GET /available-locations → %d total, %d with full 3-dimension coverage",
+        len(locations), full_coverage,
+    )
+
+    return {
+        "count": len(locations),
+        "full_coverage_count": full_coverage,
+        "locations": locations,
+    }
+
+
+@router.get(
     "/climate-static",
     summary="Climate static risk assessment (ThinkHazard district data)",
     description=(
