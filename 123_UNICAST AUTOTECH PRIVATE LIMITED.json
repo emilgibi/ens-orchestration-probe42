@@ -34,7 +34,7 @@
     {
       "id": "2",
       "title": "Key Management Personnel",
-      "contents": "\n\n\nKey Management\n\n\n1. VIVEK KUMAR JAIN - Director\n2. RAJIV KUMAR JAIN - Director\n3. ABHISHEK GUPTA - Director\n4. GUPTA ADITYA - Director\n5. PRADEEP KUMAR JAIN - Director\n6. ARVIND KUMAR JAIN - Director\n7. SANJAY KUMAR JAIN - Director\n8. DEEPALI AGARWAL - Director\n9. PANKAJ AGARWAL - Director\n10. ANAND KUMAR SHARMA - Director\n11. VIPUL VAIBHAV - Director\n12. ATUL VAIBHAV - Director\n13. GEETANJALI SHARMA - Company Secretary\n14. ANANDA BABU CHEPURI - Director\n15. NAMRATA NAIR - Company Secretary\n16. SIDDHI JAIN - Company Secretary\n17. RUCHIKA DHIMAN - Company Secretary"
+      "contents": "\n\n\nKey Management\n\n\n1. VIVEK KUMAR JAIN - Director\n2. RAJIV KUMAR JAIN - Director\n3. ABHISHEK GUPTA - Director\n4. GUPTA ADITYA - Director\n5. PRADEEP KUMAR JAIN - Director\n6. ARVIND KUMAR JAIN - Director\n7. SANJAY KUMAR JAIN - Director\n8. DEEPALI AGARWAL - Director\n9. PANKAJ AGARWAL - Director\n10. ANAND KUMAR SHARMA - Director\n11. VIPUL VAIBHAV - Director\n12. ATUL VAIBHAV - Director\n13. GEETANJALI SHARMA - Company Secretary\n14. ANANDA BABU CHEPURI - Director\n15. SIDDHI JAIN - Company Secretary\n16. NAMRATA NAIR - Company Secretary\n17. RUCHIKA DHIMAN - Company Secretary"
     },
     {
       "id": "4",
@@ -525,21 +525,48 @@
     },
     {
       "kpi_area": "FSTB",
-      "kpi_code": "FSTB13A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 193792}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 59}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"MAY-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
-      "kpi_details": "[{\"Parameter\": \"City\", \"Value\": \"NARASAPURA\"}, {\"Parameter\": \"Amount\", \"Value\": 193792}, {\"Parameter\": \"Address\", \"Value\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\"}, {\"Parameter\": \"Date Of Setup\", \"Value\": \"2013-12-01\"}, {\"Parameter\": \"Working Status\", \"Value\": \"LIVE ESTABLISHMENT\"}, {\"Parameter\": \"No Of Employees\", \"Value\": 59}, {\"Parameter\": \"Establishment Id\", \"Value\": \"PYKRP0053353000\"}, {\"Parameter\": \"Latest Wage Month\", \"Value\": \"MAY-26\"}, {\"Parameter\": \"Establishment Name\", \"Value\": \"UNICAST AUTOTECH PVT LTD\"}, {\"Parameter\": \"Payment Timeliness\", \"Value\": \"Payment After Due Date in last 12 Months.\"}, {\"Parameter\": \"Exemption Status Pf\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Exemption Status Edli\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Latest Date Of Credit\", \"Value\": null}, {\"Parameter\": \"Exemption Status Pension\", \"Value\": \"UNEXEMPTED\"}, {\"Parameter\": \"Principal Business Activities\", \"Value\": \"AUTOMIBILE SERVICING\"}]",
-      "kpi_rating": "INFO",
-      "kpi_definition": "Finance - EPFO Registration"
-    },
-    {
-      "kpi_area": "FSTB",
       "kpi_code": "FSTB14A",
       "kpi_flag": true,
       "kpi_value": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
       "kpi_details": "[{\"Parameter\": \"Adverse Filing\", \"Value\": \"False\"}]",
       "kpi_rating": "Low",
       "kpi_definition": "Finance - Auditor Comments"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB7A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
+      "kpi_details": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - GST Registration Analysis"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB5A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_details": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Related Party Transaction"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB13A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"establishment_name\": \"UNICAST AUTOTECH PVT LTD\", \"establishment_id\": \"PYKRP0053353000\", \"date_of_setup\": \"2013-12-01\", \"city\": \"NARASAPURA\", \"address\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\", \"no_of_employees\": 59, \"last_12_months\": [{\"wage_month\": \"MAY-26\", \"amount\": 193792, \"no_of_employees\": 59, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"APR-26\", \"amount\": 15204, \"no_of_employees\": 5, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"MAR-26\", \"amount\": 161889, \"no_of_employees\": 48, \"payment_timeliness\": \"Payment After Due Date\"}, {\"wage_month\": \"FEB-26\", \"amount\": 142330, \"no_of_employees\": 41, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"JAN-26\", \"amount\": 146666, \"no_of_employees\": 40, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"DEC-25\", \"amount\": 142966, \"no_of_employees\": 39, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"NOV-25\", \"amount\": 128618, \"no_of_employees\": 37, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"OCT-25\", \"amount\": 124120, \"no_of_employees\": 35, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"SEP-25\", \"amount\": 110402, \"no_of_employees\": 33, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"AUG-25\", \"amount\": 112862, \"no_of_employees\": 31, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"JUL-25\", \"amount\": 111876, \"no_of_employees\": 32, \"payment_timeliness\": \"Payment After Due Date\"}, {\"wage_month\": \"JUN-25\", \"amount\": 109264, \"no_of_employees\": 31, \"payment_timeliness\": \"Paid on Time\"}]}]",
+      "kpi_details": "[{\"establishment_name\": \"UNICAST AUTOTECH PVT LTD\", \"establishment_id\": \"PYKRP0053353000\", \"date_of_setup\": \"2013-12-01\", \"city\": \"NARASAPURA\", \"address\": \"PLOT NO 223-226 NARASPURA INDL AREA  ,NARASAPURA,KARNATAKA,563133,India\", \"no_of_employees\": 59, \"last_12_months\": [{\"wage_month\": \"MAY-26\", \"amount\": 193792, \"no_of_employees\": 59, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"APR-26\", \"amount\": 15204, \"no_of_employees\": 5, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"MAR-26\", \"amount\": 161889, \"no_of_employees\": 48, \"payment_timeliness\": \"Payment After Due Date\"}, {\"wage_month\": \"FEB-26\", \"amount\": 142330, \"no_of_employees\": 41, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"JAN-26\", \"amount\": 146666, \"no_of_employees\": 40, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"DEC-25\", \"amount\": 142966, \"no_of_employees\": 39, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"NOV-25\", \"amount\": 128618, \"no_of_employees\": 37, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"OCT-25\", \"amount\": 124120, \"no_of_employees\": 35, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"SEP-25\", \"amount\": 110402, \"no_of_employees\": 33, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"AUG-25\", \"amount\": 112862, \"no_of_employees\": 31, \"payment_timeliness\": \"Paid on Time\"}, {\"wage_month\": \"JUL-25\", \"amount\": 111876, \"no_of_employees\": 32, \"payment_timeliness\": \"Payment After Due Date\"}, {\"wage_month\": \"JUN-25\", \"amount\": 109264, \"no_of_employees\": 31, \"payment_timeliness\": \"Paid on Time\"}]}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - EPFO Registration"
+    },
+    {
+      "kpi_area": "FSTB",
+      "kpi_code": "FSTB1B",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2024\": null, \"2025\": -1111.09}, {\"factor\": \"EBITDA Margin (%)\", \"2024\": null, \"2025\": -567.97}, {\"factor\": \"ROE (%)\", \"2024\": 0.72, \"2025\": 8.67}, {\"factor\": \"ROCE (%)\", \"2024\": 25.42, \"2025\": -49.79}, {\"factor\": \"ROA (%)\", \"2024\": 26.39, \"2025\": -43.72}]",
+      "kpi_details": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2024\": null, \"2025\": -1111.09}, {\"factor\": \"EBITDA Margin (%)\", \"2024\": null, \"2025\": -567.97}, {\"factor\": \"ROE (%)\", \"2024\": 0.72, \"2025\": 8.67}, {\"factor\": \"ROCE (%)\", \"2024\": 25.42, \"2025\": -49.79}, {\"factor\": \"ROA (%)\", \"2024\": 26.39, \"2025\": -43.72}]",
+      "kpi_rating": "Medium",
+      "kpi_definition": "Finance - Profitability Analysis"
     },
     {
       "kpi_area": "FSTB",
@@ -552,21 +579,12 @@
     },
     {
       "kpi_area": "FSTB",
-      "kpi_code": "FSTB3A",
+      "kpi_code": "FSTB6A",
       "kpi_flag": true,
-      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
-      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_value": "[{\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from BB(CE)/Stable)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from A4(CE))\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}]",
+      "kpi_details": "[{\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from BB(CE)/Stable)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from A4(CE))\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}]",
       "kpi_rating": "INFO",
-      "kpi_definition": "Finance - Profit And Loss"
-    },
-    {
-      "kpi_area": "FSTB",
-      "kpi_code": "FSTB1B",
-      "kpi_flag": true,
-      "kpi_value": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2024\": null, \"2025\": -1111.09}, {\"factor\": \"EBITDA Margin (%)\", \"2024\": null, \"2025\": -567.97}, {\"factor\": \"ROE (%)\", \"2024\": 0.72, \"2025\": 8.67}, {\"factor\": \"ROCE (%)\", \"2024\": 25.42, \"2025\": -49.79}, {\"factor\": \"ROA (%)\", \"2024\": 26.39, \"2025\": -43.72}]",
-      "kpi_details": "[{\"factor\": \"Profit Margin Ratio (%)\", \"2024\": null, \"2025\": -1111.09}, {\"factor\": \"EBITDA Margin (%)\", \"2024\": null, \"2025\": -567.97}, {\"factor\": \"ROE (%)\", \"2024\": 0.72, \"2025\": 8.67}, {\"factor\": \"ROCE (%)\", \"2024\": 25.42, \"2025\": -49.79}, {\"factor\": \"ROA (%)\", \"2024\": 26.39, \"2025\": -43.72}]",
-      "kpi_rating": "Medium",
-      "kpi_definition": "Finance - Profitability Analysis"
+      "kpi_definition": "Finance - Credit Risk Analysis"
     },
     {
       "kpi_area": "FSTB",
@@ -588,39 +606,21 @@
     },
     {
       "kpi_area": "FSTB",
+      "kpi_code": "FSTB3A",
+      "kpi_flag": true,
+      "kpi_value": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_details": "[{\"factor\": \"Net Revenue (\\u20b9 in Lakhs)\", \"2025\": 168.44, \"2024\": 0.0}, {\"factor\": \"Profit After Tax (\\u20b9 in Lakhs)\", \"2025\": -1871.54, \"2024\": 1187.89}]",
+      "kpi_rating": "INFO",
+      "kpi_definition": "Finance - Profit And Loss"
+    },
+    {
+      "kpi_area": "FSTB",
       "kpi_code": "FSTB1D",
       "kpi_flag": true,
       "kpi_value": "[{\"factor\": \"Inventory Days\", \"2024\": null, \"2025\": 373}, {\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Creditor Days\", \"2024\": null, \"2025\": 405}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
       "kpi_details": "[{\"factor\": \"Inventory Days\", \"2024\": null, \"2025\": 373}, {\"factor\": \"Debtor Days\", \"2024\": null, \"2025\": 220}, {\"factor\": \"Creditor Days\", \"2024\": null, \"2025\": 405}, {\"factor\": \"Asset Turnover Ratio\", \"2024\": 0.0, \"2025\": 0.04}]",
       "kpi_rating": "Medium",
       "kpi_definition": "Finance - Operating Cycle"
-    },
-    {
-      "kpi_area": "FSTB",
-      "kpi_code": "FSTB6A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from BB(CE)/Stable)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from A4(CE))\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}]",
-      "kpi_details": "[{\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffimed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.08.25\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"29.07.24\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"10.07.23\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D (Issuer Not Cooperating/Reaffirmed)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"13.07.22\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 8198.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from BB(CE)/Stable)\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Long Term Fund Based Facility\"}, {\"amount (\\u20b9 in Lakhs)\": 500.0, \"rating\": \"D(CE) (Issuer Not Cooperating/Downgraded from A4(CE))\", \"rating_agency\": \"brickwork\", \"rating_date\": \"25.06.21\", \"type_of_loan\": \"Short Term Non Fund Based Facility\"}]",
-      "kpi_rating": "INFO",
-      "kpi_definition": "Finance - Credit Risk Analysis"
-    },
-    {
-      "kpi_area": "FSTB",
-      "kpi_code": "FSTB7A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
-      "kpi_details": "[{\"gst_in\": \"29AABCU4886A2Z6\", \"state_of_registration\": \"Karnataka\", \"filing_timeliness\": \"Filed After Due Date in last 12 Months,\", \"date_of_registration\": \"10.11.22\"}]",
-      "kpi_rating": "Medium",
-      "kpi_definition": "Finance - GST Registration Analysis"
-    },
-    {
-      "kpi_area": "FSTB",
-      "kpi_code": "FSTB5A",
-      "kpi_flag": true,
-      "kpi_value": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
-      "kpi_details": "[{\"name\": \"SAHUWALA CYLINDERS PRIVATE LIMITED\", \"amount (\\u20b9 in Lakhs)\": 482.36, \"relationship\": \"Holding Company\", \"type_of_transaction\": \"Expense\"}, {\"name\": \"ARETE 22 LIMITED\", \"amount (\\u20b9 in Lakhs)\": 14.46, \"relationship\": \"Companies KMP or Their Relatives have Significant Influence\", \"type_of_transaction\": \"Expense\"}]",
-      "kpi_rating": "INFO",
-      "kpi_definition": "Finance - Related Party Transaction"
     },
     {
       "kpi_area": "FSTB",
@@ -645,7 +645,7 @@
     }
   ],
   "cyber_esg_data": false,
-  "session_id": "ace9d78c-e089-46ad-851e-3fc08c6ea738",
+  "session_id": "6a343425-b38e-41e5-b756-f7c097bbee2c",
   "ens_id": "192777a6-be22-4e49-85f0-3e569d42ddd7",
   "disable-regulator-and-legal": true
 }

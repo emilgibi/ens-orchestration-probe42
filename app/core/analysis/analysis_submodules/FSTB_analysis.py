@@ -1048,6 +1048,7 @@ def calculate_financial_ratios(ratio_factors):
                 if change_inventory is not None
                 else None
             )
+            nature_of_entity = "Manufacturing"
         else:
             # Trading entity
             cogs = (
@@ -1055,6 +1056,16 @@ def calculate_financial_ratios(ratio_factors):
                 if change_inventory is not None
                 else None
             )
+            nature_of_entity = "Trading"
+
+        # TEMP DEBUG — remove once the COGS fix is verified in production logs.
+        # Prints, per year, exactly what the nature-of-entity logic saw and decided.
+        logger.info(
+            f"[COGS DEBUG] year={year} | nature={nature_of_entity} | "
+            f"cost_of_materials={cost_of_materials} | purchases_stock(raw)={purchases_stock} | "
+            f"purchases_stock(used)={purchases_stock_for_cogs} | change_inventory={change_inventory} | "
+            f"COGS={cogs}"
+        )
 
         # Derived
         ebitda = (
@@ -1689,12 +1700,64 @@ async def epfo_analysis(data, session):
                 "info": "no_data_found"
             }
 
-        # ---------- Optional: basic validation / normalization ----------
+        # ---------- Keep raw per-establishment structure (needed for the
+        # ---------- report's grouped table + Last 12 Months grid) instead of
+        # ---------- the old flat Parameter/Value list, which discarded
+        # ---------- filing_details and lost establishment grouping entirely.
+        def _parse_wage_month(wage_month):
+            # "MAY-26" -> datetime(2026, 5, 1); unparseable -> datetime.min so
+            # it sorts last rather than crashing the whole analysis.
+            try:
+                return datetime.strptime(str(wage_month).strip(), "%b-%y")
+            except (ValueError, TypeError):
+                return datetime.min
+
         clean_epfo_data = []
         for entry in epfo_data:
-            for k, v in entry.items():
-                if k.lower() != "filing_details":
-                    clean_epfo_data.append({'Parameter': k.replace("_", " ").title(), 'Value': v})
+            filing_details = entry.get("filing_details") or []
+
+            # Dedupe by wage_month (some months have a correction/reversal
+            # entry) — keep whichever has the latest date_of_credit.
+            dedup = {}
+            for f in filing_details:
+                wm = f.get("wage_month")
+                if not wm:
+                    continue
+                existing = dedup.get(wm)
+                if existing is None:
+                    dedup[wm] = f
+                else:
+                    existing_dt = parse_date_safe(existing.get("date_of_credit"))
+                    new_dt = parse_date_safe(f.get("date_of_credit"))
+                    if new_dt and (not existing_dt or new_dt > existing_dt):
+                        dedup[wm] = f
+
+            # Most recent 12 unique months, newest first
+            sorted_months = sorted(
+                dedup.values(),
+                key=lambda f: _parse_wage_month(f.get("wage_month")),
+                reverse=True
+            )[:12]
+
+            last_12_months = [
+                {
+                    "wage_month": f.get("wage_month"),
+                    "amount": f.get("amount"),
+                    "no_of_employees": f.get("no_of_employees"),
+                    "payment_timeliness": f.get("payment_timeliness"),
+                }
+                for f in sorted_months
+            ]
+
+            clean_epfo_data.append({
+                "establishment_name": entry.get("establishment_name"),
+                "establishment_id": entry.get("establishment_id"),
+                "date_of_setup": entry.get("date_of_setup"),
+                "city": entry.get("city"),
+                "address": entry.get("address"),
+                "no_of_employees": entry.get("no_of_employees"),
+                "last_12_months": last_12_months,
+            })
 
         if not clean_epfo_data:
             logger.info("EPFO present but no valid records found")
